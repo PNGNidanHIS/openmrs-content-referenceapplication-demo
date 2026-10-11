@@ -1,111 +1,95 @@
 Uuid,Void/Retire,Name,Concept Drug,Concept Dosage Form,Strength,_version:1
-d29fb81e-cffb-5bfc-b69c-64d4ea7cb6a4,,Acyclovir 5%- 1 g(ACYCLOVIR OINTMENT (FREE)),Acyclovir,Tube,5%-1g,_version:1
-68ee7f93-b5c5-570a-9cc1-6fe6c3ef1650,,Albendazole- 400 mg (FREE),Albendazole,Tablet,400mg,_version:1
-e0e992f6-7a9d-50fa-aef0-4b446bedcac5,,Alumninium magneshim simithicon oxethazaine (Free),Aluminium Hydroxide + Magnesium,ml,,_version:1
-b1f7602e-a300-5e30-a935-4bda08ff3e56,,Amitriptyline HCl- 10 mg (FREE),Amitriptyline,Tablet,10mg,_version:1
-f2331bf4-2990-539a-a2dd-06457bf35a14,,Amitriptyline HCl- 25 mg (FREE),Amitriptyline,Tablet,25mg,_version:1
-3ab8f30a-9e47-5363-b560-e5d715bb55e3,,Amitriptyline HCl- 75 mg(FREE),Amitriptyline,Tablet,75mg,_version:1
-2dbffa6c-ec10-57cd-9c1f-797b6a341c8f,,Amlodipine besylate- 5 mg(FREE),Amlodipine,Tablet,5mg,_version:1
-8c341f18-46de-5171-b4f5-4ce9ec5a6b3e,,Amoxicillin -250mg(FREE),Amoxycillin,Tablet,250mg,_version:1
-ef80b633-a0ba-5220-b580-5ad0027e96eb,,Amoxycillin trihydrate -125mg (FREE),Amoxycillin,Tablet,125mg,_version:1
-c9af63f6-6e55-5ff6-9acf-4ad577f2d420,,Amoxycillin trihydrate- 250 mg (FREE),Amoxycillin,Tablet,250mg,_version:1
-b285a969-4639-5877-bc8d-6cec2ef9aead,,Amoxycillin trihydrate- 500 mg (FREE),Amoxycillin,Tablet,500mg,_version:1
-978ddafe-0a1c-57c1-ad61-15c642975555,,Aspirin -75mg(FREE),Aspirin,Tablet,75mg,_version:1
-eecec77c-3468-596c-8acf-b8f21a0b1b6f,,Atenolol- 50 mg (FREE),Atenolol,Tablet,50mg,_version:1
-f8be5e86-21ff-58f1-885d-100d85d6b9ae,,Atorvastatin Ca- 10 mg(FREE),Atorvastatin,Syrup,10mg,_version:1
-4a7d5d9a-0513-547c-88fc-21832161b410,,Azithromycin 100mg -100mg(Free),Azithromycin,Syrup,100mg,_version:1
-7dc055ea-abc2-5038-bc54-e75fdfdf4186,,Azithromycin dihydrate- 250 mg(FREE),Azithromycin,Tablet,250mg,_version:1
-59ba0ad1-ef8b-5640-bbac-a8ec7e730fe7,,Azithromycin dihydrate- 500 mg (FREE),Azithromycin,Tablet,500mg,_version:1
-8030f8ca-1936-534d-9303-671dd59f7c6f,,Budesonide inhalation ip 200mcg/dose(free),Budesonide,Tablet,200mcg/dose,_version:1
-dd638dac-a66b-5ed2-8b01-e76db531cfc1,,Benzhexol HCL -2mg(FREE),Benzhexol Hydrochloride,Tablet,2mg,_version:1
-b542cff2-f5bc-54b4-98ab-7640ce75385f,,Calamine lotion 15%- 1 mL(FREE),Calamine,Tube,15%-1ml,_version:1
-be9cc0f8-fdd0-56ef-995c-2f211d2acf85,,carbamazepine 100 mg (Free),Carbamazepine,Tablet,100mg,_version:1
-85226fc6-11c7-5f9f-bd48-7dd76c019b28,,Carbamazepine- 200 mg(Free),Carbamazepine,Tablet,200mg,_version:1
-f889d5cc-fcc7-512a-b2d1-3efd9034cbb0,,Carbamazepine- 400 mg(FREE),Carbamazepine,Tablet,400mg,_version:1
-57b9f668-094c-502d-8e87-696db140a4fd,,Cefixime -200mg (FREE),Cefixime,Tablet,200mg,_version:1
-1a27012c-99d1-5b4b-8a87-573c421849b5,,Cefixime Free -400mg(FREE),Cefixime,Tablet,400mg,_version:1
-81b102fd-dcef-5c33-92de-c0bb7ee7140a,,Cetrizine dihydrochloride- 10 mg(FREE),Cetirizine,Tablet,10mg,_version:1
-aa86310b-381d-5237-803e-443cb0b6edf6,,Chloramphenicol 1%- 1 g(FREE),Chloramphenicol,Tube,1%-1g,_version:1
-523e894c-6088-552e-8e00-03655c85a80d,,Chlorhexidine gluconate 0.2%- 1 mL(MOUTH WASH)(Free),Chlorhexidine gluconate,ml,0.2%-1ml,_version:1
-e6b76ce4-c1e6-5eb0-a279-bf3b085c4f85,,Chlorpheniramine maleate- 4 mg (FREE),Chlorpheniramine maleate,Tablet,4mg,_version:1
-4e77d433-97f6-56c3-a87b-93d41023a8b5,,Chlorpromazine HCl- 100 mg (FREE),Chlorpromazine,Tablet,100mg,_version:1
-4eb19c49-a880-5f23-b3fe-5db4748c6c71,,Ciprofloxacin 0.3%w/v- 1 drop(FREE),Ciprofloxacin,Drop,,_version:1
-5c5ff973-720c-5ea0-a6c6-65ec86069d50,,Ciprofloxacin HCl- 250 mg (FREE),Ciprofloxacin,Tablet,250mg,_version:1
-bad7c687-06ef-536f-8dd3-a1499a01f2e8,,Ciprofloxacin HCl- 500 mg (FREE),Ciprofloxacin,Tablet,500mg,_version:1
-5004c3f2-cb37-5484-8000-65b69d794089,,Clotrimazole- 100 mg (FREE),Clotrimazole,Tablet,100mg,_version:1
-4b9e8b27-75cf-545a-a49f-bcddd7547344,,Clotrimazole 1%w/w- 1 gm (FREE),Clotrimazole,Tube,1%w/w-1g,_version:1
-3cb74ba4-71d8-580e-a580-422bcad47eb8,,Clove oil- 5 g (FREE),Clove oil,ml,5g,_version:1
-df033034-82c1-5e77-a2cb-1f0d06dbabb6,,Cloxacillin sodium- 250 mg(Free),Cloxacillin,Capsule,250mg,_version:1
-e8679290-fc4b-5624-8b15-916e23ae2888,,Cloxacillin sodium- 500 mg (FREE),Cloxacillin,Capsule,500mg,_version:1
-e7b86291-22a0-537a-9a52-fde5e907e5ad,,Diazepam- 5 mg (FREE),Diazepam,Tablet,5mg,_version:1
-d535e5c9-455c-56a4-9529-bb3e1244903b,,Diclofenac Na -50mg(FREE),Diclofenac,Tablet,50mg,_version:1
-fde6d3df-c68e-5fb5-897b-6c46c84a6010,,Doxycycline HCl- 100 mg(FREE),Doxycycline,Tablet,100mg,_version:1
-708190e5-8547-5f86-9bcb-8e6aebdb430d,,Enalapril maleate -5mg(FREE),Enalapril,Tablet,5mg,_version:1
-f2148133-709a-577d-aa55-69ec1fb64be5,,Escitalopram oxalate -10Mg(Free),Escitalopram Oxalate,Tablet,10mg,_version:1
-35e13a23-6a01-56e0-b28f-2966f222e3ff,,Escitalopram oxalate -5m(FREE),Escitalopram Oxalate,Tablet,,_version:1
-0df1601e-1f89-5256-98c5-eb60021a372b,,Ethambutol HCl -100mg(FREE),Ethambutol,Tablet,100mg,_version:1
-3d1ac8a5-cfca-5b4f-b87b-73f1383d3304,,Ferrous sulphate -60mg(FREE),Ferrous sulphate,Tablet,60mg,_version:1
-3a2944a5-35ed-5239-9a31-d0dae41f38a6,,Fexofenadine HCl -180MG(FREE),Fexofenadine,Tablet,180mg,_version:1
-9eabdcb4-b0be-592f-a1a0-986ab6785c82,,Fluconazole- 150 mg (FREE),Fluconazole,Tablet,150mg,_version:1
-1e5e20b4-eef7-52ce-83e0-34bf06a6e331,,Fluoxetine HCl- 10 mg (FREE),Fluoxetine,Tablet,10mg,_version:1
-def66365-0c20-5cf2-850c-0ae2a84d1d4f,,Fluoxetine HCl- 20 mg (FREE),Fluoxetine,Tablet,20mg,_version:1
-33ee80be-ea1e-5cec-8e89-fe2b677fa86b,,Folic acid- 5 mg(FREE),Folic Acid,Tablet,5mg,_version:1
-87a0de81-ecde-50a4-9b16-82cddc91ec77,,Frusemide -40mg(FREE),Furosemide,Tablet,40mg,_version:1
-50b1a3c5-73e4-5654-8fbc-92e0050f2891,,Furosemide- 40 mg(FREE),Furosemide,Tablet,40mg,_version:1
-e9bc8d97-a02d-5580-a569-97ff71b65945,,Gamma benzene hexachloride 1%- 1 mL (FREE),Lindane,Tube,1%-1ml,_version:1
-dfa9813c-b3d9-5497-80ee-a0203c7c7d26,,Glimepiride -1Mg(Free),Glimepiride,Tablet,1mg,_version:1
-3879c66d-6ef3-5260-ae10-32035a24614e,,Glimepiride -2mg(FREE),Glimepiride,Tablet,2mg,_version:1
-5f3fb2a8-8195-55e0-81da-0c5801c0735d,,Hydrochlorothiazide- 25 mg (FREE),Hydrochlorothiazide,Tablet,25mg,_version:1
-b336c721-e562-58fa-81c3-b3417d9d16aa,,Hyoscine butylbromide- 10 mg (FREE),Hyoscine butylbromide,Tablet,10mg,_version:1
-8ed869a1-949f-56ab-803d-accd8fffcbec,,Hyoscine butylbromide- 20 mg (FREE),Hyoscine butylbromide,Tablet,20mg,_version:1
-2c2599a3-aefb-5b85-8b62-3734fc8167d0,,Ibuprofen 200mg[free],Ibuprofen,Tablet,200mg,_version:1
-b96cf199-a514-5eb7-8f06-d8057ecf1d74,,Ibuprofen and paracetamol suspension [100mg/125mg] Free ,Ibuprofen + Paracetamol,ml,100mg/125mg,_version:1
-4e58afd4-fd5a-52d1-af9e-a5734268d518,,Ibuprofen Tablets IP(Free),Ibuprofen,Tablet,,_version:1
-9d696f9e-d9b9-5e9d-96d8-0532ea6b7f3b,,Indomethacin- 25 mg(FREE),Indomethacin,Tablet,25mg,_version:1
-054ff170-a072-5176-8cd1-5df4c2480bd2,,Itraconazole -200mg(Free),Itraconazole,Tablet,200mg,_version:1
-e5a750ae-c1d3-503c-bb45-26b1b101a491,,Levetiracetam -500MG(FREE),Levetiracetam,Tablet,500mg,_version:1
-09fb87d4-3068-54ff-abc5-4cbbbf51d198,,"Levonorgestrel and Ethinylestrdiol with Ferrous Fumarate (150mcg, 30mcg,75mg)Free",Levonorgestrel + Ethinyl estradiol,Tablet,150mcg+30mcg+75mg,_version:1
-0852afbb-7343-5014-b950-30e32767c1e3,,losartan 50 mg[free ],Losartan,Tablet,50mg,_version:1
-cff3dc34-1a03-5c22-adc3-b3016566e699,,Metformin 1000mg [Free],Metformin,Tablet,1000mg,_version:1
-a925ef2a-64b4-59ff-bcfe-373f0ff14b76,,Metformin HCl- 500 mg(FREE),Metformin,Tablet,500mg,_version:1
-6fb6d8fc-1490-5cd3-b0a3-a7aac305bfc6,,Methyldopa -250mg(FREE),Methyldopa,Tablet,250mg,_version:1
-781de870-50fd-56ad-8765-0df71ad097ac,,Metoclopramide HCl- 10 mg(FREE),Metoclopramide,Tablet,10mg,_version:1
-b30482a2-e27b-547e-a1ad-3578e00a94cd,,Metronidazole- 100 mg/mL(FREE),Metronidazole,Syrup,100mg/ml,_version:1
-efee7c51-6eaf-5245-a2f3-b8950efd34d5,,Metronidazole- 200 mg (FREE),Metronidazole,Tablet,200mg,_version:1
-f4c1f497-418e-58cd-a8db-88d2f8a62474,,Metronidazole- 400 mg (FREE),Metronidazole,Tablet,400mg,_version:1
-8d8cf279-6fbd-5321-bca9-b51c8997df6e,,Metronidazole+clotrimazole+lactic acid bacillus -200mg(FREE),Metronidazole + Clotrimazole,Tablet,200mg,_version:1
-2402f59c-2fb5-58e4-8214-dcce2a7d4da5,,Neomycin/polymyxin/bacitracin- 1 gm(Free),Neomycin,Tube,1g,_version:1
-8bf91433-4cce-5da9-92ef-0cf9d3b59b7b,,Nimesulide -100mg(FREE),Nimesulide,Tablet,100mg,_version:1
-63f32d01-1086-5520-8193-cdc767347522,,Olanzapine- 10 mg(FREE),Olanzapine,Tablet,10mg,_version:1
-70dbcfd1-218b-5399-9aa8-2fb9716d68c5,,Olanzapine- 2.5 mg(FREE),Olanzapine,Tablet,2.5mg,_version:1
-4c3ed070-cefe-553b-aa28-ea82042919d2,,Olanzapine- 5 mg(Free),Olanzapine,Tablet,5mg,_version:1
-d14ffdc6-adf5-5463-be5c-06f1813f06bf,,ORS powder- 1 pack (FREE),Oral rehydration salts,Unit,1pack,_version:1
-986cd3b4-b8d7-5c0f-92e5-4671b8838d77,,Oxymetazoline HCl 0.05%w/v -0.05ml(Free),Oxymetazoline,Drop,0.05%w/v-0.05ml,_version:1
-046a502b-70db-5ef3-a415-843945ccd858,,Pantoprazole Na sesquihydrate- 40 mg(Free),Pantoprazole,Tablet,40mg,_version:1
-ce8df790-0ec2-53ac-94ba-021d807fa411,,Paracetamol -125mg(FREE),Paracetamol,Syrup,125mg,_version:1
-ba1c014d-5296-59e9-9a3d-37d72141842b,,Paracetamol- 500 mg (FREE),Paracetamol,Tablet,500mg,_version:1
-9a426b2b-f027-54df-b4f9-ccf0cd2b7e50,,phenobarbitone 30mg -30mg(Free),Phenobarbitone,Tablet,30mg,_version:1
-5a7ea6eb-fba8-588e-b7c1-165f7539026c,,Phenobarbitone Na -60mg(FREE),Phenobarbitone,Tablet,60mg,_version:1
-ef3a6921-8b7d-57ca-977a-c8063bcf263a,,Prednisolone- 10 mg(FREE),Prednisolone,Tablet,10mg,_version:1
-3896e2da-c5b0-5903-80d5-925a492f8d94,,Prednisolone- 5 mg(FREE),Prednisolone,Tablet,5mg,_version:1
-68b9bf0c-bf89-5865-8226-e18986d01c55,,Ranitidine HCl- 150 mg(FREE),Ranitidine,Tablet,150mg,_version:1
-b59dd2dc-46ed-594a-9f0b-ee0c4dd9e12b,,Rifampicin -150mg(FREE),Rifampicin,Tablet,150mg,_version:1
-e9d0bbf4-ef73-5014-a2bd-c5f1c0538e2a,,Rifampicin+isoniazid -150+75mg(FREE),Rifampicin + Isoniazid,Tablet,150mg+75mg,_version:1
-d36ebeb5-9a61-54ca-9232-025831d61582,,Rifampicin+isoniazid -175+75mg (FREE),Rifampicin + Isoniazid,Tablet,175mg+75mg,_version:1
-5166e596-4cf5-57a8-b723-494381dd57ff,,Rifampicin+Isoniazid+Pyrazinamide+Ethambutol Hcl -900Mg(FREE),Rifampicin + Isoniazid,Tablet,900mg,_version:1
-59b5c191-ba41-5ce3-bdef-1fc6de860aca,,Risperidone- 1 mg (FREE),Risperidone,Tablet,1mg,_version:1
-9894c01d-d797-59ac-a45c-8f1003223857,,Risperidone- 2 mg (FREE),Risperidone,Tablet,2mg,_version:1
-c6d8a90a-6d66-5357-9d41-ae692b461abe,,Salbutamol sulphate- 4 mg(FREE),Salbutamol,Tablet,4mg,_version:1
-06745aef-cce3-5be4-b31d-bcaf0c9c0aef,,Salbutamol sulphate+bromhexine HCl -2ML (FREE),Salbutamol + Bromhexine,Tablet,2ml,_version:1
-2c752e68-8261-5758-94c3-2137c99f4582,,Sertraline HCl- 25 mg(Free),Sertraline,Tablet,25mg,_version:1
-79bc6f69-bf00-549f-a944-08bbc4a83196,,Sertraline HCl- 50 mg(FREE),Sertraline,Tablet,50mg,_version:1
-6ef7f4a7-7875-5e9c-b47b-b89fdb547a96,,Silver sulphadiazine 1%- 1 gm (FREE),Silver sulfadiazine,Tube,1%-1g,_version:1
-dcd3c170-6468-5e1f-a94c-2c7a420c27cb,,sodium valporate & Valporic Acid 200mg -200mg(FREE),Sodium valproate,Tablet,200mg,_version:1
-c8d15156-d872-525d-9f9a-1eb4c2cab023,,sodium valproate 300mg -300mg(Free),Sodium valproate,Tablet,300mg,_version:1
-f4ff8e7c-f494-50a6-8350-e1138e961bad,,sodium valproate and valproic acid 300 mg(free),Sodium valproate,Tablet,300mg,_version:1
-a49bd1bd-bff7-5dca-9fe6-f7c004fc5ed8,,Thiamine HCl- 100 mg (FREE),Thiamine,Tablet,100mg,_version:1
-c9247da6-ef70-5ae7-940a-1d2f9c42d6c2,,Tinidazole- 500 mg(FREE),Tinidazole,Tablet,500mg,_version:1
-1293d428-7a05-53fd-980d-816ba719c90a,,Vitamin A palmitate -2lakh IU(FREE),Vitamin A,ml,2lakhIU,_version:1
-ca063b34-7262-524b-bab6-3f8b0dfebf7e,,Vitamin B comp- 1 dose (FREE),Vitamin B Complex,Tablet,1dose,_version:1
-4de7cbd9-c037-5bee-a0ef-9bfc8a4fb15a,,ZINC 10mg(Free),Zinc sulfate,Tablet,10mg,_version:1
-cc9ac136-b11e-5c78-82e3-0711cc96b5c6,,Zinc sulphate- 20 mg (FREE),Zinc sulfate,Tablet,20mg,_version:1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

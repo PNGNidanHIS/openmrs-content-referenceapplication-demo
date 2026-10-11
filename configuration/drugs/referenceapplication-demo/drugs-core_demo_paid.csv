@@ -1,314 +1,300 @@
 Uuid,Void/Retire,Name,Concept Drug,Concept Dosage Form,Strength,_version:1
-8d0aae92-0536-52e5-bb11-b4cd41a4a080,,Acarbose -50mg Tab.,Acarbose,Tablet,50mg,_version:1
-b960a65a-8438-5dc1-b63d-1e2c7ee665bd,,Aceclofenac -100Mg Tab.,Aceclofenac,Tablet,100mg,_version:1
-44180af6-7c1f-5e5e-a7a9-ac88ea81a42f,,Aceclofenac -200MG Tab.,Aceclofenac,Tablet,200mg,_version:1
-4b6443ad-83d9-50cb-8b56-a4359f273b97,,Acyclovir- 200 mg Tab.,Acyclovir,Tablet,200mg,_version:1
-d0f9d872-700b-5ac7-8402-95b0410b2925,,Acyclovir -400mg Tab.,Acyclovir,Tablet,400mg,_version:1
-448b2302-dfa7-57e3-beea-0f50426ab556,,Acyclovir 5% -5g Oint.,Acyclovir,Tube,5%-5g,_version:1
-235cc624-a5c8-55a6-96ee-3c4ae9ffd09e,,Acyclovir- 800 mg Tab.,Acyclovir,Tablet,800mg,_version:1
-ce700e6a-e219-56bc-b036-fcd1d1ec1115,,Adenosine 3 mg Vial,Adenosine,Vial,3mg,_version:1
-9137137b-3159-5ab4-9c2d-58c7bb0dec75,,Adrenaline bitartrate -1mg(FLYAMA),Adrenaline,Vial,1mg,_version:1
-3c939d1c-cbc8-5ad8-93d6-0b6e67fd10ed,,Albendazole- 400mg/mL Syrup,Albendazole,Syrup,400mg/ml,_version:1
-ec75af52-1175-5d1c-a523-51e285f6373b,,Allopurinol IP 100 mg,Allopurinol,Tablet,100mg,_version:1
-1dccfeff-de31-5b54-9c2d-eb6bb150beb7,,Alprazolam- 0.25 mg Tab.,Alprazolam,Tablet,0.25mg,_version:1
-35f1113b-b3b7-5784-9ad5-1022a076b34d,,Alprazolam 0.5 mg,Alprazolam,Tablet,0.5mg,_version:1
-8e197046-788a-53b9-9f7d-cf7bc41c3acf,,"Aluminium hydroxide,magnesium hydroxide and simethicone suspension 100 ml",Aluminium Hydroxide + Simethicone,ml,100 ml,_version:1
-7a4ce21f-8b1f-50b8-8945-d42106ece4e9,,Amiodarone HCl -50mg Inj.,Amiodarone,Vial,50mg,_version:1
-646c93b0-0dd2-57f7-9990-31ed132235da,,Amlodipine 5 mg  + Atenolol 50 mg,Amlodipine + Atenolol,Tablet,50mg,_version:1
-12acbf6b-f481-5316-a96e-c78d3c687e7b,,Amlodipine Besylate + Losartan K -5 + 50 mg Tab,Amlodipine + Losartan,Tablet,5mg+50mg,_version:1
-df418f8e-6f71-5c08-a2c5-05c29a50469e,,Amoxicillin trihydrate + clavulanate K- 200 mg/28.5 mg Syp,Amoxycillin + Potassium Clavulanate,Syrup,200mg,_version:1
-cf2fcaeb-acf6-5098-800e-edec8b732cd9,,Amoxicillin trihydrate + clavulanate K -625mg Tab,Amoxycillin + Potassium Clavulanate,Tablet,625mg,_version:1
-8aeb1446-43c7-51d5-bbec-d6ab514db287,,Amoxicilln 125 mg,Amoxycillin,Syrup,125mg,_version:1
-237571bd-27e1-5ca6-b37f-901f9104dba7,,Amoxycillin Na + clavulanate K- 1000 mg + 200mg Inj,Amoxycillin,Vial,1000mg,_version:1
-365f36eb-d036-5e7a-91cb-da2d0475d032,,Amoxycillin trihydrate -500mg Tab.,Amoxycillin,Tablet,500mg,_version:1
-681381dd-f978-5bad-8932-cd52c63ffc8d,,Ascorbic acid -1mg Tab,Ferrous Ascorbate + Folic Acid,Tablet,1mg,_version:1
-ce635f78-2941-57e9-be58-17ae518272b3,,Aspirin 150 mg,Aspirin,Tablet,150mg,_version:1
-1f5cf204-efa2-51d0-8e9a-b8c96f5e6d28,,Aspirin -75mg Tab.,Aspirin,Tablet,75mg,_version:1
-2c5f41ce-8d78-522c-a17f-f869d81389ac,,Atorvastatin Ca -10mg Tab.,Atorvastatin,Tablet,10mg,_version:1
-91c926f8-4ca7-5033-90e2-367d3c3f63dd,,Atorvastatin Ca- 20 mg Tab.,Atorvastatin,Tablet,20mg,_version:1
-4f7b8408-286f-532b-9548-cc9348529933,,Atropine 0.60 mg 10 ml vial,Atropine,Vial,0.60mg,_version:1
-d51d017f-ba0d-58b7-b2ce-12f392fc6144,,Atropine 1 ml ampoule,Atropine,Vial,1ml,_version:1
-289d7b9f-9a27-5b62-89b0-9fb286d0f566,,Atropine sulphate 0.60mg/10ml inj,Atropine,Vial,0.60mg,_version:1
-a8e97a83-243a-590c-bbda-edc7c98fa905,,Azithromycin 100 mg,Azithromycin,Syrup,100mg,_version:1
-7b96f2ac-bf2b-58f5-8b71-f5b101519524,,Azithromycin 500 mg,Azithromycin,Tablet,500mg,_version:1
-30c4ba9f-b9e3-5c49-9fe4-24c348a76781,,Benzathine Penicillin  (long acting),Benzathine Penicillin G,Vial,,_version:1
-37e87a79-8df8-54b3-9804-4044d2c0a49d,,betahistine hydrochloride -8mg Tab.,Betahistine,Tablet,8mg,_version:1
-72ac774e-962a-5081-9511-843222aa5b6e,,Biphasic isophane insulin 30/70 -40IU/ml Inj.,Insulin Isophane,Vial,40iu,_version:1
-f00f783c-9229-53e0-a02a-fd2518ddaed6,,Biphasic isophane insulin 50/50 (40iu),Insulin Isophane,Vial,40iu,_version:1
-0a7b03df-4415-53be-aab1-620ac6836f9b,,Bromhexine HCl + terbutaline SO4 -100ml Syp,Terbutaline + Bromhexine,Syrup,100ml,_version:1
-df7a9b92-7895-504f-be64-dd1f1dc5c731,,Bromhexine HCl + terbutaline SO4 -4mg 60ml syp,Terbutaline + Bromhexine,Syrup,4mg,_version:1
-bf8f86d9-f2ef-5619-b1df-0795d20ae79e,,Budesonide inhaler 200 mcg/dose,Budesonide,Inhaler,200mcg/dose,_version:1
-b312be83-b74e-513b-9546-9ab346622fd8,,Bupivacaine hcl 5 mg (BUPIKAM),Bupivacaine,Vial,5mg,_version:1
-bf29ec94-112d-5e39-8ece-ed5ccdb3d8b7,,Calcium Carbonate + D3 -500MG + 200IU Tab,Calcium + Vitamin D3,Tablet,500mg,_version:1
-ea4736f8-29d5-5ee0-ae54-dfd93e067ecf,,Calcium gluconate 10%,Calcium Gluconate,Vial,,_version:1
-e86e8ad8-7a42-5e1e-968b-d3e2b84dc68c,,Calcium gluconate -10% Inj.,Calcium Gluconate,Vial,,_version:1
-a6f0ea1e-1d54-55f6-969e-a4964825a74a,,calcium with vitamin D3 -200ml Syrup,Calcium + Vitamin D3,Syrup,200ml,_version:1
-94a68bec-9b80-5368-b866-236282b65770,,Carbimazole 5 mg,Carbimazole,Tablet,5mg,_version:1
-0e00a589-fbce-5cb9-975e-d2a703759cfd,,Carboxymethylcellulose 0.5%w/v -10ml Drop,Carboxymethylcellulose,Drop,0.5%w/v-10ml,_version:1
-bc8ea810-0ccb-563a-b5e2-15575e187edd,,Carboxymethyl cellulose sodium 1.0% -1.0% Drop,Carboxymethylcellulose,Drop,1.00%,_version:1
-87ea83f0-b673-5904-92ec-9db682cbd010,,cefexime 50 mg - Syrup,Cefixime,Syrup,50mg,_version:1
-c6c4b1b1-eaaf-5611-898c-f454b4070102,,Cefixime 200 mg tab,Cefixime,Tablet,200mg,_version:1
-d02ce640-6dc0-5c05-a486-39d15ee198c5,,Cefixime trihydrate- 400 mg Tab.,Cefixime,Tablet,400mg,_version:1
-1b0ffadf-de48-5dfd-82fe-b9a498d682e6,,Cefixime trihydrate -500mg Tab.,Cefixime,Tablet,500mg,_version:1
-88eecac4-07b7-5bbb-9ae5-0a656046bb60,,Cefixime trihydrate 50mg  Syrup,Cefixime,Syrup,50mg,_version:1
-45d892f4-9418-5f47-859f-4e3277196381,,Cefotaxime 500 mg,Cefotaxime,Vial,500mg,_version:1
-cca667be-9e46-54d7-adc6-f17c650408ad,,Cefotaxime Na -1gm Inj.,Cefotaxime,Vial,1g,_version:1
-dd24fc3f-44b3-50ad-aa48-d2dab1998ab4,,Cefotaxime Sodium 500 mg(Biotax),Cefotaxime,Vial,500mg,_version:1
-e5c72a30-740f-5539-b654-686587b0024e,,Chlordiazepoxide 10 mg (Zolium ),Chlordiazepoxide,Tablet,10mg,_version:1
-9cd345d6-4401-5160-bb13-f2e61df73215,,Chlorhexidine Digluconate 2 mg (V-Wash),Chlorhexidine,ml,2mg,_version:1
-fbebf545-3350-54e0-8504-243cd0ff2754,,Chlorhexidine gluconate 0.2%- 1 mL mouth wash ml,Chlorhexidine,ml,0.2%-1ml,_version:1
-d391d6ff-861e-57b4-afd9-f42778c49970,,chlorpheniramine 4 mg  + phenylephrine hcl 10 mg  + paracetamol 500 mg -500mg Tab(Sinex),Paracetamol + chlorpheniramine +pseudoephedrine,Tablet,500mg,_version:1
-493ce511-91fb-5316-822a-7eff06f9a59c,,Chlorzoxazone + paracetamol -750mg Tab,Paracetamol + Chlorzoxazone,Tablet,750mg,_version:1
-5bf3d671-7110-5f1d-bb84-70a407552eb8,,Cholecalciferol 400 IU,Cholecalciferol,Drop,400IU,_version:1
-75b5f4ba-fedc-5b40-ae6b-53f3a650e46a,,Cholecalciferol -60000Mg Cap.,Cholecalciferol,Capsule,60000mg,_version:1
-7a1af606-88c1-575b-a485-42d4d82ae774,,Choline salicylate 9.0% + Benzylkonium 0.02%(Oragum Tube)(Oragum Tube),Benzalkonium Chloride + Choline Salicylate,Tube,0.9% + 0.02%,_version:1
-8b9accae-f2e0-5682-b543-a8479c96cc32,,Cinnarizine- 25 mg Tab.,Cinnarizine,Tablet,25mg,_version:1
-7adbbd9d-8f17-56ac-982a-fc9d4dde19da,,Ciprofloxacin Hcl 0.3 %(ciflox),Ciprofloxacin,Tube,0.30%,_version:1
-4fb042e6-24e9-5c38-9487-cc2a9c339602,,Clarithromycin- 500 mg Tab.,Clarithromycin,Tablet,500mg,_version:1
-af1557a4-bb23-5a48-ba5b-e1d31f31e68f,,Clindamycin 150 mg,Clindamycin,Vial,150mg,_version:1
-afae2ab7-d79b-5b05-a1dc-95542f381086,,Clindamycin HCl -300mg Cap.,Clindamycin,Capsule,300mg,_version:1
-0b57d373-13a0-591a-b456-8108637a42ee,,Clobetasol propionate 0.05% + gentamicin sulphate 0.1% + miconazole nitrate 2% -1tube Oint,Clobetasol Propionate +Gentamicin Sulphate + Miconazole,Tube,0.05% + 0.1% + 2%,_version:1
-dcce18cc-42ea-5fc7-9dcf-b48936b6adce,,Clobetasol propionate 0.05%w/w -15gm Tube,Clobetasol,Tube,0.05%w/w-15g,_version:1
-629bdcb4-7218-596b-8526-24d7f67a342f,,Clonazepam- 0.25 mg Tab.,Clonazepam,Tablet,0.25mg,_version:1
-44275fa7-fd01-59a4-ade7-cf70d7fc46d3,,Clonazepam -0.5mg Tab,Clonazepam,Tablet,0.5mg,_version:1
-7a410026-592a-576e-b379-396a5742c725,,Clopidogrel bisulfate -75mg Tab.,Clopidogrel,Tablet,75mg,_version:1
-1edf3afd-bd4c-5954-91b3-06a53bae1fdc,,Clotimazole lodocaine and chloramphenicol ear drop 10 ml,Chloramphenicol + Clotrimazole,Drop,10ml,_version:1
-b9354a29-b564-504b-8272-1892ac480a0e,,Clotrimazole 1% -1% mouth paint 25 ml,Clotrimazole,ml,1%/25ml,_version:1
-d353b2b3-ba27-58b0-9f73-e2e69c05cee6,,Clotrimazole 1%w/v- 1 mL Oint,Clotrimazole,Tube,1%w/v-1ml,_version:1
-1edd11dd-95b8-53b9-a7a9-18f3e0d0f357,,clotrimazole and beclomethasone Tube(Candid B),Clotrimazole + Beclometasone,Tube,,_version:1
-4a3c993e-2044-52c9-95af-b9f7422744e1,,Clotrimazole and Beclomethasone Tube (Candid B),Clotrimazole + Beclometasone,Tube,,_version:1
-1bb95a5d-087c-504f-829a-2467f2cb17ce,,Cyproheptadine HCl -4mg/200ml Syrup,Cyproheptadine,Syrup,4mg,_version:1
-0f14d5d2-a01a-5974-ac8f-7d0c78c6cb5d,,Dex 5% + saline 0.9%- 1 mL ml,Dextrose,Drop,0.9%-1ml,_version:1
-07d2d6de-d725-5f60-a0d8-c166a92f5de5,,dexamethasone 0.1% chloramphenicol 1.0%phenylmercuric0.001% -5ml Drops,Dexamethasone,Syrup,0.001%-5ml,_version:1
-be14a669-8f5a-5fde-95aa-133b8acd77c1,,Dextromethorphan hbr + triprolidine hcl  & Phenylephrine HCL -ML syp,Dextromethorphan Hydrobromide + Triprolidine,Unit,,_version:1
-7643716f-dc56-5d78-a4d4-7693993dc1fe,,Dextrose 10 % -500ml Unit,Dextrose,Unit,10%-500ml,_version:1
-4a86b6a4-6ab5-58d8-9879-2b25d3dc811c,,Dextrose 25 % 100 ml,Dextrose,Unit,25%-100ml,_version:1
-e22c504d-769c-513e-8043-e99de43a8bda,,Dextrose 25% w/v -25gm Inj.,Dextrose,Unit,25g,_version:1
-1e1bf321-c875-5059-a2a3-f44de3c8f6c2,,Dextrose 50 %,Dextrose,Unit,50%,_version:1
-b50e990e-cad2-5f16-95eb-d372b5e82c3b,,Diazepam- 5 mg/mL Inj.,Diazepam,Tube,5mg/ml,_version:1
-bdb5d140-7b90-520d-b34c-d491bfea0d77,,Diclofenac diethylamine 1.0% + linseed oil 3% + methyl salicylate 10% -30gm Gel,Diclofenac Diethylamine + Methyl Salicylate,Syrup,10%-30g,_version:1
-ac147c90-fcb0-57f7-9ecb-cdf9514bdfb5,,Dicyclomine HCl  10 mg + simethicone 40 mg - ( 60 ml Syp),Dicyclomine,Vial,40mg,_version:1
-3648eb5a-0534-5377-afb9-c71dd5adce66,,Digoxin 0.25 mg,Digoxin,Syrup,0.25mg,_version:1
-6e52c3b7-9c7d-52e4-aee9-16c4f17cfeae,,Disodium H citrate- 280 mg/mL Syrup,Disodium Hydrogen Citrate,Tablet,280mg/ml,_version:1
-a9d2105f-a999-5467-868d-acc7ee946a07,,Domperidone -10mg Tab.,Domperidone,Tablet,10mg,_version:1
-dca506cb-d478-56d4-92dc-052ac24c8f60,,Dopamine HCl -40mg Inj.,Dopamine,Vial,40mg,_version:1
-08d986b8-1c11-5ebc-9c95-f4efa8916473,,Doxofylline -1mg Tab.,Doxofylline,Tablet,1mg,_version:1
-8d15bfd2-7cf3-5704-9197-07349601e0e8,,Drotaverine HCl -80mg Tab.,Drotaverine,Tablet,80mg,_version:1
-86bd4157-d56d-549d-8529-e0e61d39e4e0,,Duloxetine -30mg Tab.,Duloxetine,Tablet,30mg,_version:1
-80f2cd43-c129-55d3-b98b-f3e75e1d1c91,,Empagliflozin 25 mg,Empagliflozin,Tablet,25mg,_version:1
-a1e4a25f-df15-582e-b284-9e0a05dd4df0,,Empagliflozine 10mg Tab.,Empagliflozin,Tablet,10mg,_version:1
-893b27d8-b307-5d87-9bf3-42bc377edd86,,Enalapril maleate- 2.5 mg Tab.,Enalapril,Tablet,2.5mg,_version:1
-ecb4116f-68f7-590d-a1cb-46f716d54146,,Enalapril maleate- 5 mg Tab.,Enalapril,Tablet,5mg,_version:1
-e58df09e-b352-5997-94c6-4867dbbd1b09,,Enoxaparin Na -40mg Inj.,Enoxaparin,Vial,40mg,_version:1
-99787e1f-507d-5b4c-b697-fbe079ff499f,,Equine antirabies immunoglobulin 1500IU /5 ml (rabies),Equine Rabies Immunoglobulin,Vial,1500IU/5ml,_version:1
-52aac500-5044-5cc5-8ebf-f6ccbb6e631f,,Escitalopram 5 mg,Escitalopram Oxalate,Tablet,5mg,_version:1
-b02cc83b-7ef5-51ef-953b-02196fce06fc,,Escitalopram oxalate -10Mg Tab.,Escitalopram Oxalate,Tablet,10mg,_version:1
-995b22a7-e892-5e13-9d77-965f87f20969,,Esomeprazole 40 mg tab,Esomeprazole,Tablet,40mg,_version:1
-bc24571a-2eca-572b-8be8-62dc1db2c01a,,Etoricoxib -90mg Tab.,Etoricoxib,Tablet,90mg,_version:1
-c2e98137-d5b4-57cd-ad46-89bfd82c7381,,Febuxostat -40mg Tab.,Febuxostat,Tablet,40mg,_version:1
-baef69b8-5195-558c-bf46-fa0bd9a7ffa5,,Febuxostat -80mg Tab.,Febuxostat,Tablet,80mg,_version:1
-14b51e81-9441-577c-9e3e-11da8834575b,,Fentanyl citrate -50mcg Inj.,Fentanyl,Vial,50mcg,_version:1
-be49b8ed-5512-5d32-9088-4396a03dc3f0,,Fexofenadine HCl -120mg Tab,Fexofenadine,Tablet,120mg,_version:1
-1c230530-bc68-5c6f-8d78-df73da8c7a4f,,Fexofenadine HCl -180mg Tab,Fexofenadine,Syrup,180mg,_version:1
-3c5093a1-ee88-5df0-9eab-26bae988b823,,Fexofenadine HCl -30mg Syrup,Fexofenadine,Syrup,30mg,_version:1
-1ee4693b-5076-5a3d-81cc-48f31ca17ff4,,Fexofenadine HCl- 60 ml(FEXADINE SYP 30MG) (Syrup),Fexofenadine,Syrup,60ml,_version:1
-5960f614-8121-5719-84a1-d42374837dc8,,Finasteride 5 mg tab,Finasteride,Tablet,5mg,_version:1
-6d311aef-4e19-5db4-8ef0-1877575e4592,,Flavoxate 200 mg,Flavoxate,Tablet,200mg,_version:1
-8d5bb5aa-3152-5e71-a2d0-e993f024872d,,Flucloxacillin sodium -125mg Syrup,Flucloxacillin Sodium,Tablet,125mg,_version:1
-a1eee2c7-87b7-5429-ae07-0ef4801263ea,,Flucloxacillin sodium -500mg Inj.,Flucloxacillin Sodium,Vial,500mg,_version:1
-e580da6f-0a8d-53e3-9d71-67d1b298cbc8,,Flucloxacillin sodium -500mg Cap.,Flucloxacillin Sodium,Capsule,500mg,_version:1
-d7ea9b2f-4510-510a-abc9-1f6765bdeef2,,Flurbiprofen -0.3mg Drop,Flurbiprofen,Drop,0.3mg,_version:1
-0bc8f8e8-4ccc-5702-b161-447beed5b19a,,Formeterol 100 mcg (foracort),Formoterol,Vial,100mcg,_version:1
-add79b7e-c7bb-5744-8fda-0a0f01eef4e7,,Formeterol fumarate 6 mcg + budesonide 200 mcg -1 R/C,Beclometasone + Formoterol,Tablet,200mcg + 6mcg,_version:1
-feca14ce-5b98-53f2-974a-a179d1ec48cc,,Furosemide -2ml Inj.,Furosemide,Vial,2ml,_version:1
-659702fe-2849-5350-8db2-5c7fe0f6af0e,,Furosemide + spironolactone- 20 mg/50mg Tab,Furosemide,Tablet,20mg,_version:1
-9d3b13dd-644d-5b0a-8281-9f84fd510440,,Fusidic acid and Hydrocortisone Acetate Tube -15gm Tube,Clotrimazole + Fusidic Acid,Tube,15g,_version:1
-c511c58a-20bf-522d-b1d6-4b7cd40342ae,,Hydrochlorothiazide 12.5 mg,Hydrochlorothiazide,Vial,12.5mg,_version:1
-90dbb0bc-8cdc-595e-9eea-fd08863cfc06,,Hydrochlothiazide 25 mg,Hydrochlorothiazide,Tablet,25mg,_version:1
-36d34a18-a012-557f-b3b1-f2a28167090e,,Hydrocortisone acetate 1% w/w- 1 gm Cream,Hydrocortisone,Tablet,1%w/w-1g,_version:1
-756d4cdb-6185-5843-baf2-256d1ceb3ad1,,Hydrogen peroxide -100Mg ml,Hydrogen Peroxide,ml,100mg,_version:1
-cdc158c0-54af-5bf2-b14a-1c7bf168d4db,,Hydrogen peroxide 20% -400ml Solution,Hydrogen Peroxide,Tablet,20%-400ml,_version:1
-7790baf4-a63c-566e-b62a-be6951d0d06b,,Hyoscine butylbromide- 20 mg/mL Inj.,Hyoscine Butylbromide,Tablet,20mg/ml,_version:1
-ff761924-4aa4-57a2-8241-5816c76d3ed1,,Hyoscine bytylbromide 10 mg tab,Hyoscine Butylbromide,Tablet,10mg,_version:1
-b08f52db-8638-50b2-bf32-0513f7fa220b,,Ibuprofen and paracetamol 125 mg syrup,Ibuprofen + Paracetamol,Syrup,125mg,_version:1
-2c66e59b-6b4b-510b-a5a8-0f4048f02976,,Ibuprofen 100 mg + Paracetamol 125 mg,Ibuprofen + Paracetamol,Tablet,125mg,_version:1
-027f47e1-0bd1-59b1-8d8a-b09df9566948,,Ibuprofen + paracetamol- 400 mg/500mg Tab,Ibuprofen + Paracetamol,Tablet,400mg,_version:1
-e3649bec-1822-5cee-8184-9c2e4e93a8cf,,Ibuprofen + paracetamol -725Mg Tab,Ibuprofen + Paracetamol,Tablet,725mg,_version:1
-91b10dc4-301b-5da6-8751-818dd71ce43a,,Influnja vaccine 0.5 ml syringe,Influenza Vaccine Tetra,Vial,0.5 ml,_version:1
-93e36f59-5dfd-50cb-a62e-51bb1ba333b9,,ipratropium bromide -500mcg Recepules,Ipratropium Bromide,Vial,500mcg,_version:1
-0ccfc482-4048-5323-8dc2-d1342f59cf03,,Isosorbide mononitrate- 10 mg Tab.,Isosorbide Mononitrate,Tablet,10mg,_version:1
-48b25c49-abd4-5934-8f45-1dacf8feba81,,Isosorbide mononitrate -20mg Tab.,Isosorbide Mononitrate,Tablet,20mg,_version:1
-c8de34d9-08cf-5c3b-a34c-a5f1c7ca1e9e,,itopride -50mg Tab.,Itopride,Tablet,50mg,_version:1
-adc54790-ec1b-56cb-80ed-350d86e034c4,,Itraconazole- 100 mg Tab.,Itraconazole,Tablet,100mg,_version:1
-75ccba89-7eda-5f50-89a2-07cabbbbf93d,,Itraconazole -200mg Tab.,Itraconazole,Tablet,200mg,_version:1
-03178b02-3b6f-5b86-a93e-b5a5064e055c,,Ketamine HCl -50mg Inj.,Ketamine,Vial,50mg,_version:1
-45712e5c-d616-5dc8-b32e-93dcedaffcf0,,Ketoconazole 2%w/w -15gm Tube,Ketoconazole,Tube,2%w/w-15g,_version:1
-8ce418a0-6f50-5e88-a207-2074746049df,,ketoconazole shampoo -2% ml,Ketoconazole,ml,2%,_version:1
-7d5a9e28-2168-5abf-b7b7-f6db5788da25,,Ketorolac tromethamine -10mg Tab.,Ketorolac,Tablet,10mg,_version:1
-a47e34d6-f7f0-5944-b560-9f7f62056ed1,,Ketorolac tromethamine- 30 mg/ml Inj.,Ketorolac,Vial,30mg/ml,_version:1
-f8fa6d18-dc3a-517a-b818-ba05f4f9c56c,,ketorolac tromethamine opthalmic ml -4mg Drop,Ketorolac,Drop,4mg,_version:1
-fe03f1d7-9108-5abd-8b50-f34f55ad232d,,Labetalol -5mg/ml Inj.,Labetalol,Vial,5mg/ml,_version:1
-3e62098a-ffd8-51ad-a0c1-a7088a00e899,,Lactulose- 200mL Syrup,Lactulose,Syrup,200ml,_version:1
-8552dab0-f65e-5b27-93e5-ede1e077557c,,lactulose 3.35gm (100ml Syrup),Lactulose,Syrup,3.35mg/100ml,_version:1
-3060b922-7515-53fe-bd85-bb8f495f2b1c,,Levetiracetam 500 mg,Levetiracetam,Vial,500mg,_version:1
-5dbb3962-3f99-5da6-99e4-e04b7887e30e,,Levetiracetam -5ml Inj.,Levetiracetam,Vial,5ml,_version:1
-70d40152-d382-54c0-a0cb-e14e22b3a95d,,Levocetrizine dihydrochloride -2mg/mL Syrup,Levocetirizine,Syrup,2mg/ml,_version:1
-92e540c5-9689-5762-88c6-ff92d7c3c7e2,,Levocetrizine dihydrochloride -5mg Tab.,Levocetirizine,Tablet,5mg,_version:1
-f9f9317e-3eae-5603-a39d-23d949030d4d,,Levofloxacin hemihydrate -500mg Inj.,Levofloxacin,Vial,500mg,_version:1
-be4b74b6-db77-5c7e-bdea-2d7a6c7b7efc,,Lignocaine 2%- 1 GM Tube,Lignocaine,Tube,2%-1g,_version:1
-7aef2a8b-dfbd-59a2-9379-00186cafd1ba,,Lignocaine 3%w/w  +   hydrocortisone acetate 0.25%w/w  +   zinc oxide 5%w/w  +   allantoin 0.5%w/w- 1 gm Tube,Lignocaine,Tube,0.5%w/w-1g,_version:1
-bfdb80d4-7188-5708-962c-39f920ceb962,,Lignocaine hcl  21.3 mg + sodium chloride 6.0 mg (LOXICARD 2%) 50 ml,Lignocaine,Vial,6.0mg,_version:1
-8379c062-a282-56d6-be56-79a56f5590bf,,Linagliptin -5mg Tab.,Linagliptin,Tablet,5mg,_version:1
-eb8d2acb-b2ef-576a-a772-ed10fa6785b6,,Linagliptine 5 mg + Metformine 500 mg,Linagliptin,Tablet,500mg,_version:1
-df8546cd-686a-5354-84a4-ad2215ab02e7,,Linagliptine 5 mg  + Metformine hcl 1000 mg,Linagliptin,Tablet,1000mg,_version:1
-debb6379-461e-5d01-ae64-4c9e5879561d,,liver protective -200ml Syrup,LIVER TONIC,Syrup,200ml,_version:1
-0141b992-4ce1-5aca-9295-e334688df2a4,,Lorazepam -2mg Tab.,Lorazepam,Tablet,2mg,_version:1
-bcfa233e-5300-5381-8657-7194f824a6f5,,Losartan K- 25 mg Tab.,Losartan,Tablet,25mg,_version:1
-a59c5280-7ada-57bc-8d87-32813bb3c1b9,,Losartan K- 50 mg Tab.,Losartan,Tablet,50mg,_version:1
-8bb06aee-bbb8-54d4-9504-33bf73567090,,Losartan K + hydrochlorthiazide- 50 mg/12.5mg Tab,Losartan + Hydrochlorothiazide,Tablet,50mg,_version:1
-bf6a62f4-0f50-58f0-a05f-0407aa5256f3,,Losartan Potassium 25 mg + Amlodipine 2.5 mg (MYPRESS LH),Losartan + Amlodipine,Tablet,2.5mg,_version:1
-045cbcf1-23fb-5778-b6ca-f3b0753e95db,,luliconazole -1%,Luliconazole,Tablet,1%,_version:1
-08307f4d-e4e0-5abd-9f1a-5e4635cbddcc,,Magnesium Sulphate 1 gm (Epsom salt),Magnesium Sulphate,Tablet,1 gm,_version:1
-f5dc24a2-f95c-5d59-8c4d-57e8434c5f51,,Magnesium sulphate 50%w,Magnesium Sulphate,Tablet,50%w,_version:1
-69787bee-cb33-5882-9abb-b6a16225c1c7,,Mefenamic acid -500mg Tab.,Mefenamic Acid,Tablet,500mg,_version:1
-38e5be22-6228-509a-9dd0-12563ebd5c14,,mefenamic acid  + dicyclomine hcl -500mg Tab,Dicyclomine + Mefenamic Acid,Tablet,500mg,_version:1
-05ff8728-ec5c-50c2-8ea3-e0766ec7b8e8,,Meropenem trihydrate -1gm Inj.,Meropenem,Vial,1g,_version:1
-bc43e1b6-558d-5b4d-af26-46f5396910e5,,Meropenem trihydrate -500mg Inj.,Meropenem,Vial,500mg,_version:1
-f779f22b-58e7-5f41-aef4-3d1a6c5fcdb4,,Metformine 1000 mg + linagliptine 2.5 mg,Metformin + Linagliptin,Tablet,2.5mg,_version:1
-aaef2f62-852a-5d3e-a57c-7b3af3ff24d7,,Metformine 500  + Linagliptine 2.5 mg -500mg Tab,Metformin + Linagliptin,Tablet,500mg,_version:1
-a315ccf7-1502-54a4-b02f-eaff2c90a8ee,,Metformine Hydrochloride 850 mg,Metformin,Tablet,850mg,_version:1
-ca0970f2-5ea1-5005-8b61-7874ebf59f78,,metformin hcl 1000mg and glimepride 2 mg PR -1000mg Tab.,Glimepiride + Metformin,Tablet,1000mg,_version:1
-c1f2d403-245b-51ee-9f7a-f797cf59e537,,Metformin Hcl 1000 mg(PR) and Glimepride 1 mg -1000mg Tab.,Glimepiride + Metformin,Tablet,1000mg,_version:1
-26c0b453-f2f9-505b-ab3f-49424bad49dc,,Metformin Hcl 500 mg (PR)and Glimeprid 2 mg -500mg Tab.,Glimepiride + Metformin,Tablet,500mg,_version:1
-1dfbbe1e-f2d8-57f0-86b0-a2547f042edb,,Metformin Hcl 500 mg  (PR) and Glimepride 1 mg -500mg Tab.,Glimepiride + Metformin,Tablet,500mg,_version:1
-580a7a04-7669-59da-bc38-33344f117758,,metformin hcl 850 mg and sitagliptin phosphate monohydrate 50 mg -850mg Tab.,Sitagliptin + Metformin,Tablet,850mg,_version:1
-6743a225-4e77-50cb-a075-f6961586434a,,Methotrexate 7.5 mg,Methotrexate,Tablet,7.5mg,_version:1
-fd8d04be-4d69-56ba-b52a-7201774de086,,Methylcobalamin -1500Mg Tab.,Methylcobalamin,Tablet,1500mg,_version:1
-36023d13-3fcf-583d-b654-b444c50eb2f5,,Methylprednisolone acetate -4mg Tab.,Methylprednisolone,Tablet,4mg,_version:1
-51a55581-6ef3-51f0-9cea-d199fa17d9ca,,Metoclorpramide Hcl 5.0 mg,Metoclopramide,Tablet,5.0mg,_version:1
-5ea97ada-cc78-51ab-94ed-14a08b1fade1,,Metoprolol succinate -50mg Tab.,Metoprolol Succinate,Tablet,50mg,_version:1
-1c3aa1ab-82bb-5c6d-a606-0c2990101e50,,Metoprolol succinate extended release tab 12.5 mg(Metloc XL),Metoprolol Succinate,Tablet,12.5mg,_version:1
-57cf4d85-3268-555f-8b72-994385ba8a1a,,Metoprolol succinate extended release tab 25 mg(Metloc XL),Metoprolol Succinate,Tablet,25mg,_version:1
-fece38fe-7c0e-5c6d-8835-f856a73f5ddb,,Metoprolol tartrate- 12.5 mg Tab.,Metoprolol Tartrate,Tablet,12.5mg,_version:1
-f7c29910-5a95-566f-a26b-60dbc4910079,,Metoprolol tartrate- 25 mg Tab.,Metoprolol Tartrate,Tablet,25mg,_version:1
-77d39cc5-8bdd-558f-a1d3-f28ae71d13c4,,Metoprolol tartrate -50mg Tab.,Metoprolol Tartrate,Tablet,50mg,_version:1
-eefff773-e989-5e6b-8db6-e3158e6fa053,,"metronidazole, chlorhexidine, lignicaine and menthol -10gm Tube",Metronidazole + Chlorhexidine + Ligocaine + Menthol,Tube,10g,_version:1
-c747b786-90ea-51b7-ada4-2d65b8ca8e62,,Metronidazole-DF -1mg Tab.,Metronidazole,Tablet,1mg,_version:1
-9f25ff05-caed-5227-8563-c64a9847ce2c,,Midazolam- 1 mg/mL Inj.,Midazolam,Vial,1mg/ml,_version:1
-dfa9b383-0c04-5ffd-808a-8fa943dc8f9f,,Mometasone furate 50 mcg Nasal spray,Mometasone,Spray,50 mcg,_version:1
-7d486a4c-648b-5ada-90f7-c16c9bfad10b,,Montelukast Sodium & Levocetrizin HCL-10/5mg Tab.,Montelukast,Tablet,5mg,_version:1
-141e9aed-82af-5af6-8c45-0cb31d6fb327,,Morphine sulphate -10mg Inj.,Morphine,Tablet,10mg,_version:1
-03c2bd75-1772-5d5a-8175-892bd5ab05d0,,Multivitamin -1mg Drop,Multi Vitamin,Drop,1mg,_version:1
-866532d6-e8f7-5796-9068-49ebe4976510,,Multivitamin -2500IU Cap.,Multi Vitamin,Capsule,2500iu,_version:1
-0738a0c8-da87-5d59-86f2-cc401e550c22,,Mupirocin 2%w/w -5gm Oint.,Mupirocin,Tube,2%w/w-5g,_version:1
-0394aca3-6cff-5a4f-99f3-3b290c427c31,,Naproxen -250mg Tab.,Naproxen,Tablet,250mg,_version:1
-daef8eda-dcfe-5734-9ae7-1268e5b38704,,Naproxen -500mg Tab.,Naproxen,Tablet,500mg,_version:1
-c493522c-a966-5407-a0cc-a8d27cf1ba38,,Neostigmin 5 ml,Neostigmine,Tablet,5ml,_version:1
-d1539317-0a9e-5cac-97f4-dda09d226ecf,,Nitrofurantoin -100mg Tab.,Nitrofurantoin,Tablet,100mg,_version:1
-a9b41df7-70e4-5509-8a98-1414572cd5b3,,Noradrenalin 2 mg inj.,Noradrenaline,Vial,2mg,_version:1
-ab27db1d-deb5-5d46-afd1-c0db1620b0ca,,Ofloxacin 0.3 % -0.3% Drop,Ofloxacin,Drop,0.30%,_version:1
-0518b128-37f5-5ded-9e59-750cf643fefc,,Olanzapine 5 mg,Olanzapine,Tablet,5mg,_version:1
-3efb9d12-ab4d-57c4-b47a-ac18b71c28cb,,Olmesartan medoxomil -20mg Tab.,Olmesartan Medoxomil,Tablet,20mg,_version:1
-e5f34318-caf0-5d23-bd51-effba0ed7eb2,,Olnazepam 2.5 mg,Olanzapine,Tablet,2.5mg,_version:1
-593776bd-8412-5056-9601-b41f09956c90,,Olopatadine hydrochloride -0.1% Drop,Olopatadine,Drop,0.10%,_version:1
-0b28b0d9-da74-5499-8ad8-d2443e166c4a,,Ondansetron hcl 2mg (30mlSyrup) drop,Ondansetron,Drop,2mg,_version:1
-c6966e16-96f7-50ae-bb22-858087084c78,,Ondansetron HCl- 2 mg/mL Inj.,Ondansetron,Vial,2mg/ml,_version:1
-d9e58477-4184-521a-98b9-d8f5f6ab3fbc,,Ondansetron HCl -4mg Tab.,Ondansetron,Tablet,4mg,_version:1
-9e3df4f0-cb02-5727-8235-48b5137c2faf,,Oxymetazoline HCl 0.025%w/v -0.025% Drop,Oxymetazoline,Drop,0.03%,_version:1
-860f4c54-e96b-5ddf-b06b-d3f3f5a04186,,Oxymetazoline Hcl0.05% (T-Zoline)A nasal,Oxymetazoline,Spray,0.05%,_version:1
-06bcc92b-a2a2-55c8-8951-996589d4268b,,Oxymetazoline hcl 0.5 mg benzakonium chloride 0.02% (OTRINIR) nasal drop,Oxymetazoline,Drop,0.5mg,_version:1
-b22ca577-9799-5500-af60-a7988a8587ca,,Pantoprazol 40mg Tablet,Pantoprazole,Tablet,40mg,_version:1
-0ac487bd-0ddb-55da-bad6-49288ac832e3,,pantoprazole + domperidone -40mg Tab,Pantoprazole,Tablet,40mg,_version:1
-e869a6e1-77a0-50a3-8bb8-a48a83376311,,Pantoprazole Na sesquihydrate -40mg Tab.,Pantoprazole,Tablet,40mg,_version:1
-92a2177c-e3e6-5977-936f-572019cbe055,,pantoprazole sodium -40mg Inj.,Pantoprazole,Vial,40mg,_version:1
-98775316-1124-5a8b-ba0f-12b7a3041124,,Paracetamol- 150mg/ Drop,Paracetamol,Drop,150mg,_version:1
-682f1478-a894-52bc-b2ed-259989d6fcbb,,Paracetamol -150mg/mL Inj.,Paracetamol,Vial,150mg/ml,_version:1
-a33ab226-04ac-5c26-b92f-0d68633d7c79,,Paracetamol -150ML Syp,Paracetamol,Syrup,150ml,_version:1
-8ccd95ce-c93f-55ff-8b46-2062e75cfda1,,Paracetamol 500 mg + Codeine Phosphate 10 mg,Paracetamol + Codeine,Tablet,10mg,_version:1
-ea5f195c-5b8b-5713-822c-2a82d01f2adb,,"Paracetamol 500 mg ,Phennylephrine 7.5 mg , Chlorpheniramine 4 mg(Decold)",Paracetamol +Phenylephedrine+Chlorpheniramine Maleate,Tablet,4mg,_version:1
-acea62db-ff00-5413-9a17-6a7de9f47ce4,,Paracetamol Oral 15ml Suspension,Paracetamol,ml,15ml,_version:1
-0a13e4df-2f1c-5826-9233-ec05eef47654,,Permethrin 5% -5% Lotion,Permethrin,Lotion,5%,_version:1
-4e86ff8c-cfb4-5f40-a5be-fa0bda457857,,Pethidine HCl -50mg Inj.,Pethidine,Vial,50mg,_version:1
-49be18f8-eb12-5fea-8771-4ee4e1ac7452,,Pheniramine maleate -22.75mg Inj.,Pheniramine Maleate,Vial,22.75mg,_version:1
-b51b9477-fdce-5c66-bb21-b6fb297f9b14,,Phenylephrine hcl 10 mg (PHENPRESS),Phenylephrine,Syrup,10mg,_version:1
-7715044a-828d-5352-a612-f7438d7acef0,,Phenytoin 50 mg/ml,Phenytoin,ml,50mg/ml,_version:1
-f1ea4cf2-1581-501d-93b4-cd64088f21a1,,Phenytoin sodium- 100 mg Tab.,Phenytoin,Tablet,100mg,_version:1
-09a46364-d6ec-5534-91d8-e93e6e6d9af4,,Piperacillin Na + tazobactam Na -4.5gm Inj,Piperacillin + Tazobactum,Vial,4.5g,_version:1
-d196ab22-9ca8-5b70-960f-3803e571a0c1,,Polybion inj 2 ml(vit B complex with vit B12),Vitamin B Complex,Vial,2 ml,_version:1
-e32a7816-e10c-53ea-914e-8b2991a11143,,Potassium chloride- 150mg/mL Inj.,Potassium Chloride,Vial,150mg/ml,_version:1
-0f5ce132-23f0-5aa5-bf83-62c0d4fa52da,,Potassium chloride -1.5gm Syrup,Potassium Chloride,Syrup,1.5g,_version:1
-6b919d5f-3a32-52b5-a7ca-d8a0bde7ac33,,Potassium citrate and citric acid 100ml oral ml,Citric Acid + Potassium Citrate,ml,100ml,_version:1
-d14f8968-3e64-5322-9fd5-4e0a5a204821,,Povidine iodine IP 10 % w/V -50ml ml,Povidone Iodine,ml,10%w/v-50ml,_version:1
-55838a80-e765-573f-a68e-a452fc9be91b,,Povidone-Iodine 0.1% -0.1% w/v GARTube Sol.,Povidone Iodine,ml,01wv + 0.1% -0.1% w/v GAv,_version:1
-f2ac4023-21db-52d4-9da6-ebd7b925f5aa,,Pralidoxime chloride 1 gm,Pralidoxime,Tablet,1 gm,_version:1
-fcb3cc77-b2a5-56ef-bd2c-f8fb4f484e0f,,Pralidoxime chloride 500mg -500mg Inj.,Pralidoxime,Vial,500mg,_version:1
-9e319f39-0670-500c-ae4d-287423adbda5,,Prazosin hydrochloride 5 mg,Prazosin,Tablet,5mg,_version:1
-138cba31-57b4-505c-b04f-7304295537eb,,Pregabalin -75mg Cap.,Pregabalin,Capsule,75mg,_version:1
-279f2fb3-d6a8-59bc-94db-6bad122924ff,,Pregabalin 75 mg + Methylcobalamin 1500 mcg -75mg Cap,Methylcobalamin + Pregabalin,Capsule,75mg,_version:1
-c9537fab-7ca8-573d-b9fc-b102ed17d1a6,,Prochloperazine maleate -5mg Tab.,Prochlorperazine,Tablet,5mg,_version:1
-eea51eac-24de-5002-9212-0ef5afb35356,,Promethazine HCl- 25 mg/mL Syrup,Promethazine,Syrup,25mg/ml,_version:1
-3faec9b7-73db-52f2-a9cf-87548825f80f,,Promethazine HCl -25mg Tab.,Promethazine,Tablet,25mg,_version:1
-f4d1ae2c-b1f6-5fac-873a-fcee522f8d4b,,Propranolol HCl- 10 mg Tab.,Propranolol,Tablet,10mg,_version:1
-dc89b9d2-189d-5c46-b8b4-ff0d103b7efe,,Propranolol HCl -20mg Tab.,Propranolol,Tablet,20mg,_version:1
-12312deb-7212-5fd4-9ba3-b498e9ce22bf,,Pyridoxine HCl -100mg Tab.,Pyridoxine hydrochloride,Tablet,100mg,_version:1
-f02d8a70-3a6c-54af-bb2c-7c933908b255,,Pyridoxine HCl- 10 mg Tab.,Pyridoxine hydrochloride,Tablet,10mg,_version:1
-ebed3b5a-8398-5a89-873b-317b3167101b,,Rabeprazole Na -20Mg Tab.,Rabeprazole,Tablet,20mg,_version:1
-f01f4fdb-e2fe-5206-8386-f7c662693fd4,,RANITIDINE HCL 75 mg -75mg Syrup,Ranitidine,Syrup,75mg,_version:1
-c0160920-1124-56ba-91b6-7e4db059f8b2,,Rifaximin 550 mg,Rifaximin,Tablet,550mg,_version:1
-1687e5e6-0c7f-5147-abd9-54847ce1574f,,Rosuvastin Ca -10mg Tab.,Rosuvastatin,Tablet,10mg,_version:1
-01453fbc-5c0b-56e5-9cbc-a60ae9facc6c,,Rosuvastin Ca -20mg Tab.,Rosuvastatin,Tablet,20mg,_version:1
-42df28d7-7ac0-5030-9fc1-48fb2d126f06,,Rotahaler -(Inhaler)(ROTAHALER),Rotahaler,Inhaler,,_version:1
-8d7145ea-d020-5509-89bd-5d9d8e13cf0e,,Salbutamol 2 mg + Bromhexin Hcl 4 mg(SALHEX)100ml,Salbutamol,Syrup,4mg,_version:1
-97266e55-61ad-5e8f-ab5b-a81d85a63912,,salbutamol respules 2.5 mg,Salbutamol,Tablet,2.5mg,_version:1
-0a85bd8c-766c-5fff-9a51-e071718fd013,,Salbutamol sulphate -200mcg Rota cap,Salbutamol,Tablet,200mcg,_version:1
-e6fe1514-d33b-5f1b-95e8-34162104f55e,,Salbutamol sulphate 2 mg(SAL- 2)100ml,Salbutamol,Syrup,2mg,_version:1
-8afb17ea-dc28-5bff-ada8-19cf53823d70,,Salmeterol xinafoate + fluticasone propionate -250mcg Cap (R/C),Salmeterol,Capsule,250mcg,_version:1
-52da9ed4-9297-578d-b9e1-b034751941f5,,Secnidazole- 1000 mg Tab.,Secnidazole,Tablet,1000mg,_version:1
-4bf718af-590f-5619-a4f7-fb24e09d0ba3,,Serratopeptidase- 10 mg Tab.,Serratiopeptidase,Tablet,10mg,_version:1
-4152510f-c00f-504d-b136-c3c4ce3a690d,,Sitagliptine 100 mg,Sitagliptin,Tablet,100mg,_version:1
-75e1509d-2306-59d5-9322-de8a199d34cc,,sitagliptine phosphate monohydratr ip -50mg Tab.,Sitagliptin,Tablet,50mg,_version:1
-6e710497-01c3-55d9-9211-fc5b1dc60ca6,,Sodium bicarbonate 7.5 %,Sodium Bicarbonate,Tablet,7.50%,_version:1
-0a23ddd8-9ec5-57a8-a01d-972586a3d6b9,,Sodium chloride -0.65%  nasal  Drop,Sodium Chloride,Drop,0.65%,_version:1
-83421e4c-cda8-5ea9-b8e6-d970c52d9081,,Sodium chloride 0.9% -0.9gm 100 ML Unit,Sodium Chloride,Unit,0.9%-0.9g,_version:1
-67646fe2-12c4-5b07-aa11-f62f85aa333d,,Sodium chloride 0.9% -0.9gm Unit,Sodium Chloride,Unit,0.9%-0.9g,_version:1
-a87cc093-ad7e-5813-bf33-9a13ea8c5432,,Sodium chloride 0.9% -500ml(NS) Unit,Sodium Chloride,Unit,0.9%-500ml,_version:1
-3ee64f45-f54d-5998-8c48-607cea0d0115,,Sodium chloride -3% Unit,Sodium Chloride,Unit,3%,_version:1
-a7c97a92-e9ba-50bf-b89c-1c8c14683af2,,Spironolactone- 25 mg Tab,Spironolactone,Tablet,25mg,_version:1
-f7e03ef2-a82f-5442-a5a0-4c53cffe25fd,,Sterile Hypodermic Syringe -1ML Inj,Sterile Water,Vial,1ml,_version:1
-cdac881c-4ccf-5ebb-bec5-755a67369b3f,,Sterile Hypodermic Syringe -5ml Inj,Sterile Water,Vial,5ml,_version:1
-0b0fe84e-a131-568b-a1a3-956ecff536af,,Succinycholine 50 mg,Succinyl Choline Chloride,Tablet,50mg,_version:1
-2650db0d-8c40-5cba-99ac-dde75195ec7a,,Tamsulosin HCl -0.4mg Cap.,Tamsulosin,Capsule,0.4mg,_version:1
-8a32f45b-2874-5219-a4b7-1d65973cbedb,,Telmisarata 40 mg  + Hydrochlorthiazide 12.5 mg -40mg Tab,Telmisartan + Hydrochlorothiazide,Tablet,40mg,_version:1
-7f549f65-0d82-59ee-8575-92ed014824ba,,Telmisartan -20mg Tab.,Telmisartan,Tablet,20mg,_version:1
-2054d1d4-a678-51f0-9688-a29b6fef877d,,Telmisartan 40 mg,Telmisartan,Tablet,40mg,_version:1
-b4fbd420-bbd6-5b74-8e63-7094503b96d8,,Telmisartan 40 mg,Telmisartan,Capsule,40mg,_version:1
-fea57658-1396-5df1-b5a2-92fb6c7c5991,,Telmisartan -80mg Tab,Telmisartan,Tablet,80mg,_version:1
-d7affaf7-5938-548d-85b4-676c98ee2448,,Terbinafine HCl -1.01 Oint,Terbinafine,Tube,,_version:1
-9c22439e-a9dd-574a-8bc2-eb0857abdec7,,Tetanus toxoid vaccine (adsorbed T.T),Tetanus Toxoid,Vial,,_version:1
-aababfde-90d0-5b80-b457-e6f47d105dd5,,Tetracycline -5gm Oint,Tetracycline,Tube,5g,_version:1
-0f5e03da-694a-58cc-91f4-8546ab4e174a,,Thiamine HCl -2ml Inj,Thiamine,Vial,2ml,_version:1
-af3dec2b-74bb-5ea1-b592-d1ae7c2564da,,Thyroxine sodium- 0.05 mg Tab,Thyroxine,Tablet,0.05mg,_version:1
-a8145824-93bd-54a5-b08c-27f47ff3b5e2,,Thyroxine sodium -100mcg Tab,Thyroxine,Tablet,100mcg,_version:1
-3642c7e2-f81e-5be4-8e2b-eec685ed0410,,Thyroxine sodium -25mcg Tab,Thyroxine,Tablet,25mcg,_version:1
-96b5a255-1e13-5a11-9a5c-56f5519e2b6d,,Thyroxine sodium -50mcg Tab,Thyroxine,Tablet,50mcg,_version:1
-b313543c-7e4b-5ee4-9eb0-0dd9009fc0f7,,Thyroxine sodium -75mcg Cap,Thyroxine,Capsule,75mcg,_version:1
-3ae13012-3bf6-57fc-bcdb-53033846b820,,thyroxin sodium 12.5 mcg -12.5mcg Tab,Thyroxine,Tablet,12.5mcg,_version:1
-6c1072ab-00cf-504f-b308-d60333fa99b7,,Tinidazole -500mg Tab,Tinidazole,Tablet,500mg,_version:1
-e1ebd816-c057-51f0-a569-a09f93992cfd,,Tiotropium Br monohydrate- 0.018 mg  Cap,Tiotropium,Capsule,0.018mg,_version:1
-810b02d0-f662-5af7-83db-8b0cbed6ed22,,Tizanidine HCl- 2 mg Tab,Tizanidine,Tablet,2mg,_version:1
-a29c65e6-6880-5ba2-a878-aefe415898b4,,Tizanidine HCl -4mg Tab,Tizanidine,Tablet,4mg,_version:1
-015bdaab-704a-5461-800f-d72136c8c85e,,Tobramycin -0.3% Drop,Tobramycin,Drop,0.30%,_version:1
-e65bb738-08c9-5177-8b99-cf8278d5c8f1,,Tramadol HCl -50Mg Inj,Tramadol,Vial,50mg,_version:1
-6fa9d149-91f0-5c1a-92af-90669389b726,,Tramadol HCl -50Mg Tab,Tramadol,Tablet,50mg,_version:1
-ceb1abb3-9b3b-5a37-b0d2-03ea8916036c,,Tranexemic acid -500mg Inj,Tranexamic Acid,Vial,500mg,_version:1
-24116c6e-424d-568c-ad09-5862fa076a29,,Tranexemic acid- 500 mg Tab,Tranexamic Acid,Tablet,500mg,_version:1
-583512e3-dd88-54ca-aa63-f1fb5c5a511d,,tropicamide opthalmic ml -4mg Drop,Tropicamide,Drop,4mg,_version:1
-c80f6df5-ee69-5e6f-ac94-23e882304e4f,,Trypsin + chymotrypsin -mg Tab,Trypsin Chymotrypsin,Tablet,,_version:1
-07f9f54e-68a4-5361-a91c-70423a62639b,,Ursodeoxycholic acid -300 mg Tab,Ursodeoxycholic Acid,Tablet,300mg,_version:1
-f777a00d-48d0-5090-82c6-a769c0f05549,,Vancomycin HCl -500mg Inj,Vancomycin,Vial,500mg,_version:1
-05441d9c-5798-588d-ada1-09b991c9e264,,Vitamin B1b1 + B6 + B12 + nicotinamide + Ca pantothenate -2500mcg Inj,Vitamin B Complex,Vial,2500mcg,_version:1
-525f3ccd-420d-5e15-a637-cfb9884e6d09,,vitamin b complex with  vit b12 (multivitamin)syrup 200ml,Vitamin B Complex,Syrup,200ml,_version:1
-d62bd481-72da-5980-96b8-afc2bd5123c2,,vit b complex with vit b12 syrup -100ml (multivitamin)Syp,Vitamin B Complex,Syrup,100ml,_version:1
-6edbba65-59dd-57de-b8cb-9a54de6650e7,,Voglibose mouth dissolving tab 0.3 mg -0.3mg Tab,Voglibose,Tablet,0.3mg,_version:1
-55f977d8-b7af-564a-ae52-0d7e7c9ee47f,,vogllibose mouth dissolving tab 0.2 mg -0.2mg(MEGAVOG 0.2),Voglibose,Tablet,0.2mg,_version:1
-c5c67823-5dbb-5664-b427-6ed566019b8e,,Wax resolvent(paradichlorobenzene + benzocaine)- 1 Drop,Paradichlorobenzene + Benzocaine,Drop,1,_version:1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
