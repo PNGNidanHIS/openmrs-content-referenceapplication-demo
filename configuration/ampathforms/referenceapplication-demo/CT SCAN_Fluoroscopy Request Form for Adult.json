@@ -1,0 +1,298 @@
+{
+  "name": "CT SCAN/Fluoroscopy Request Form for Adult",
+  "pages": [
+    {
+      "label": "Location of Patient",
+      "sections": [
+        {
+          "label": "Location",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "b419bf5d-ff45-4e05-87a4-47ff13fc35b5"
+              },
+              "id": "ip-Ward/Op",
+              "label": "IP-Ward/OP"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "c475db84-b845-43eb-adba-4c1faeed6fd5"
+              },
+              "id": "admissionNo:",
+              "label": "Admission No:"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "2dfcc1a6-1056-43b8-9b09-b9314854e7ce"
+              },
+              "id": "procedure",
+              "label": "Procedure"
+            }
+          ]
+        },
+        {
+          "label": "Clinical Information",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "5f377e63-f383-4f5b-835c-9e6fab1f04f8"
+              },
+              "id": "backgroundInformationIfAny",
+              "label": "Background information if any"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "b6d6af46-deb5-4029-b3fd-3ef5429dde73"
+              },
+              "id": "presentComplain",
+              "label": "Present Complain"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "c34f4a85-4cba-41a0-83ad-1819db346ef0"
+              },
+              "id": "salientExaminationFindings",
+              "label": "Salient Examination Findings"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "58a952a3-e032-498c-9832-8fd7b65c13f7"
+              },
+              "id": "relevantInvestigationDone",
+              "label": "Relevant Investigation Done"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "1909d6de-ccd0-41fb-b6af-d23018594ae3"
+              },
+              "id": "justificationForCtScan/Fluoroscopy",
+              "label": "Justification for CT Scan/Fluoroscopy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Appointment Details",
+      "sections": [
+        {
+          "label": "Appointment",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
+              },
+              "id": "date",
+              "label": "Date",
+              "datePickerFormat": "both"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "bc44de6f-db98-42c7-98b5-5fd059f50d3a"
+              },
+              "id": "day",
+              "label": "Day"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "82494148-3771-4df5-8dc8-fcdd7627ce60",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "4-6HoursFasting(Npo)",
+              "label": "4-6 Hours Fasting (NPO)"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "0406b33e-b67b-452c-802d-a59bfad4eab8",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "food/DrugAllergies",
+              "label": "Food/Drug Allergies"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "aa16b369-2bd1-46a8-8e3b-7226a57ab9a6",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "kidney/RenalFailure",
+              "label": "Kidney/Renal Failure"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "c51b03e9-fe70-4580-a128-21e926f4c6e6",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "asthma",
+              "label": "Asthma"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "bab00b13-f34a-493c-8f0f-423ee5cbd434",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "diabetic",
+              "label": "Diabetic"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "0bad4305-ec0a-4d71-9b15-78d657641e4f",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "knownHeartCondition",
+              "label": "Known Heart Condition"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "a953dee8-d5dd-4b27-9fba-208e10f91f18"
+              },
+              "id": "uecResults",
+              "label": "UEC results"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "number",
+                "concept": "5085AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+              },
+              "id": "bp",
+              "label": "Systolic BP"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "number",
+                "concept": "5086AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+              },
+              "id": "diastolicBp",
+              "label": "Diastolic BP"
+            }
+          ]
+        },
+        {
+          "label": "Providers",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "multi-provider-select",
+                "concept": "f4f0eec4-5a84-419c-9192-df30ffc72a4c"
+              },
+              "id": "ct/FluoroTechName",
+              "label": "CT/Fluoro Tech Name"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "c7a754d4-db01-4c3c-ab9f-0b6f25ed89a1"
+              },
+              "id": "approved/Unapproved(OtherTest)",
+              "label": "Approved/ Unapproved (Other Test)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processor": "EncounterFormProcessor",
+  "encounterType": "dd528487-82a5-4082-9c72-ed246bd49591",
+  "referencedForms": [],
+  "uuid": "0a8dd9a3-a1bf-45b2-bcd5-9e74bf9fae9a",
+  "description": "CT Scan request form",
+  "encounter": "Consultation",
+  "published": true,
+  "retired": false,
+  "version": "1"
+}

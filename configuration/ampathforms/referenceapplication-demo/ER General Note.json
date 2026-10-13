@@ -11,52 +11,35 @@
             {
               "type": "obs",
               "questionOptions": {
-                "rendering": "select",
-                "concept": "76812b96-fbc5-43cd-ba12-d2fb70cf85df",
+                "rendering": "radio",
+                "concept": "26f2f14e-b09e-43a0-87e2-d1e2b30e7b37",
                 "answers": [
                   {
-                    "concept": "0db55ea3-564b-4260-968c-2c415c396f3e",
-                    "label": "Ultra poor or poor"
+                    "concept": "68b8c607-2bf7-4aa1-ae12-9878eac34694",
+                    "label": "New Visit"
                   },
                   {
-                    "concept": "e08bdee0-8169-4499-b9f5-f13c3f68cf2a",
-                    "label": "Helpless or destitute"
+                    "concept": "2aae0e2f-3d5e-4da6-b91a-83f4d34a6a6c",
+                    "label": "Prescription Only"
                   },
                   {
-                    "concept": "be9c3055-bed0-4fa3-a8ed-bd995f7420bf",
-                    "label": "Disabled"
+                    "concept": "ff867df4-a59a-479d-8d42-bfbc211b1378",
+                    "label": "Return Visit - Scheduled"
                   },
                   {
-                    "concept": "e3694e2d-dc2f-4dc1-9ff4-62541a006b2b",
-                    "label": "Sr. citizens greater than 60 years"
-                  },
-                  {
-                    "concept": "a0c0b3d6-cc02-4b10-ad18-3ac023e686d4",
-                    "label": "FCHV"
-                  },
-                  {
-                    "concept": "0c65f154-39e9-47d6-af6c-5cbcb206bc5d",
-                    "label": "Gender based violence"
-                  },
-                  {
-                    "concept": "5622AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Other"
-                  },
-                  {
-                    "concept": "1175AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Not applicable"
+                    "concept": "2e0c40b6-7846-49a8-b795-bbf3327fc3ad",
+                    "label": "Return Visit- Unscheduled"
                   }
                 ]
               },
-              "id": "freeHealthServiceCode",
-              "label": "Free health service code",
-              "required": true
+              "id": "visitType",
+              "label": "Visit Type"
             },
             {
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "9d205daa-cb83-4d90-9ae9-ee2633217ef0",
+                "concept": "67a0c0b7-c700-45f2-8aa6-40e7108246e0",
                 "answers": [
                   {
                     "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -68,68 +51,26 @@
                   }
                 ]
               },
-              "id": "medicoLegalCase",
-              "label": "Medico-Legal Case"
+              "id": "referredPatient",
+              "label": "Referred Patient"
             },
             {
               "type": "obs",
               "questionOptions": {
-                "rendering": "radio",
-                "concept": "14AAAAAAAAAAAAAAAAAAAAAAAAABB",
-                "answers": [
-                  {
-                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Yes"
-                  },
-                  {
-                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "No"
-                  }
-                ]
+                "rendering": "text",
+                "concept": "dc0d19e6-f5e8-4cdb-b090-86a10a6ac31f"
               },
-              "id": "referredIn",
-              "label": "Referred In",
-              "required": true
+              "id": "referringFacility",
+              "label": "Referring Facility"
             },
             {
               "type": "obs",
               "questionOptions": {
-                "rendering": "radio",
-                "concept": "1f70de7a-6130-460d-823b-b007a42b42f9",
-                "answers": [
-                  {
-                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Yes"
-                  },
-                  {
-                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "No"
-                  }
-                ]
+                "rendering": "text",
+                "concept": "1500a6cb-7e3e-417c-acaf-ecd72d05cadd"
               },
-              "id": "genderBasedViolence",
-              "label": "Gender based violence",
-              "required": true
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "bfa38864-ffdf-4ae5-bbb7-023fb3f7b728",
-                "answers": [
-                  {
-                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Yes"
-                  },
-                  {
-                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "No"
-                  }
-                ]
-              },
-              "id": "suspectedTuberculosisPatients",
-              "label": "Suspected Tuberculosis Patients",
-              "required": true
+              "id": "referringProvince",
+              "label": "Referring Province"
             },
             {
               "type": "obs",
@@ -137,73 +78,23 @@
                 "rendering": "textarea",
                 "concept": "e32add25-df38-4b2b-85e8-709633467ce2"
               },
-              "id": "chiefComplaint",
-              "label": "Chief Complaint"
+              "id": "chiefComplain",
+              "label": "Chief Complain"
             },
             {
               "type": "obs",
               "questionOptions": {
                 "rendering": "textarea",
-                "concept": "2f1de83e-2a48-400b-bdad-3aa02b35c146"
+                "concept": "f4090447-33b7-4085-8643-f1e6a0dcd7bb"
               },
-              "id": "physicalExaminationDetails",
-              "label": "Physical examination details",
-              "questionInfo": "General HEENT CV Lungs Abdomen MSK Skin Neuro Psych"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "textarea",
-                "concept": "a113d5c7-f7e0-47f2-8ca5-ab0551ead703"
-              },
-              "id": "patientHistory",
-              "label": "Patient history"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "textarea",
-                "concept": "1390AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-              },
-              "id": "hpiNotes",
-              "label": "HPI notes",
-              "questionInfo": "Location Severity Quality Timing : Constant / Intermittent, how long did it last Duration : When did it Start Modifying Factors : Anything make it better or worse Context : What were you doing when it started Associated Signs or Symptoms"
-            }
-          ]
-        },
-        {
-          "label": "Substance Use",
-          "isExpanded": "true",
-          "questions": [
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "2dd8492d-2859-4544-96cf-5a5f2ecfb36c",
-                "answers": [
-                  {
-                    "concept": "152807AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Former Smoker"
-                  },
-                  {
-                    "concept": "701637c6-bba2-4b95-ae29-1a8c38a0e853",
-                    "label": "Non-smoker"
-                  },
-                  {
-                    "concept": "152722AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Current Smoker"
-                  }
-                ]
-              },
-              "id": "cigaretteSmoker",
-              "label": "Cigarette smoker",
-              "questionInfo": "Cigarettes/day or Packs/day? Years?"
+              "id": "pastHistory",
+              "label": "Past History"
             },
             {
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "9221d24c-6724-4d3a-a7c0-5083e7eac7f9",
+                "concept": "91d4c76f-052e-4199-9cc7-3d56a45fd05f",
                 "answers": [
                   {
                     "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -212,89 +103,24 @@
                   {
                     "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
                     "label": "No"
-                  }
-                ]
-              },
-              "id": "otherFormsOfTobacco",
-              "label": "Other Forms of Tobacco"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "b2ae4db6-7749-436f-b81b-75ffb04e3ebc",
-                "answers": [
-                  {
-                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Yes"
                   },
                   {
-                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "No"
+                    "concept": "1067AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Unknown"
                   }
                 ]
               },
-              "id": "alcoholUse",
-              "label": "Alcohol Use",
-              "questionInfo": "Drinks/day, Type of Alcohol"
+              "id": "medicationAllergy",
+              "label": "Medication Allergy"
             },
             {
               "type": "obs",
               "questionOptions": {
-                "rendering": "radio",
-                "concept": "8afd032c-db28-4f8d-9782-0520f28792c5",
-                "answers": [
-                  {
-                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Yes"
-                  },
-                  {
-                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "No"
-                  }
-                ]
+                "rendering": "text",
+                "concept": "08a58120-e6e0-44d1-a183-afe8542ab0aa"
               },
-              "id": "evidenceOfAlcoholAbuse",
-              "label": "Evidence of Alcohol Abuse ",
-              "questionInfo": "CAGE Questionnaire Have you ever felt you needed to Cut down on your drinking? Have people Annoyed you by criticizing your drinking? Have you ever felt Guilty about drinking? Have you ever felt you needed a drink first thing in the morning (Eye-opener) to steady your nerves or to get rid of a hangover?"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "90771aa7-a1a7-467a-a377-bc0a0b4e0527",
-                "answers": [
-                  {
-                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Yes"
-                  },
-                  {
-                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "No"
-                  }
-                ]
-              },
-              "id": "illicitDrugUse",
-              "label": "Illicit Drug Use"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "textarea",
-                "concept": "45c6fa88-707c-4936-a914-bcc88b285af6"
-              },
-              "id": "allergies",
-              "label": "Allergies"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "date",
-                "concept": "1427AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-              },
-              "id": "dateOfLmp",
-              "label": "Date of lmp",
-              "datePickerFormat": "calendar"
+              "id": "ifYes,What?",
+              "label": "If yes, What?"
             }
           ]
         }
@@ -311,332 +137,844 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "7ce18ae2-6cbb-4e47-a154-ca4223cd0f1f",
+                "concept": "2f617543-9154-4131-97e5-a21bbd035012",
                 "answers": [
                   {
-                    "concept": "5fb089ff-2e11-4260-9e2e-09b217d9d59e",
-                    "label": "Green"
+                    "concept": "925b030a-561d-467f-abb9-a974b8b62ecc",
+                    "label": "Cat 1: Emergency"
                   },
                   {
-                    "concept": "80aed305-b33a-4413-bf97-93e957e89a0c",
-                    "label": "Red"
+                    "concept": "069c0927-866e-41fa-89d9-fbece3da74bf",
+                    "label": "Cat 2:"
                   },
                   {
-                    "concept": "89ccd459-a23d-49fc-9654-2da7cdbbf04e",
-                    "label": "Black"
-                  },
-                  {
-                    "concept": "9ec820f7-74ec-47a3-a0ce-024606940441",
-                    "label": "Yellow"
+                    "concept": "c4343bf5-d662-4d14-8664-1eeb1892e023",
+                    "label": "Cat3: Non-Urgent"
                   }
                 ]
               },
-              "id": "triage",
-              "label": "Triage"
+              "id": "triageCategory",
+              "label": "Triage Category"
             },
             {
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "200ee833-414c-4606-8721-31b9272c4346",
+                "concept": "7f009b7b-6342-4e16-bad6-009a1c3d07c8",
                 "answers": [
                   {
-                    "concept": "703AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Positive"
+                    "concept": "f23ba2e0-842f-4f3e-b65b-2ea618ca5373",
+                    "label": "Acute"
                   },
                   {
-                    "concept": "664AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Negative"
+                    "concept": "7f012ea1-46dd-4574-854d-bf0252e1075c",
+                    "label": "Fast Track"
+                  },
+                  {
+                    "concept": "d086242c-e357-460e-b19b-243ce0492c41",
+                    "label": "Resus"
                   }
                 ]
               },
-              "id": "chestCompression",
-              "label": "Chest compression"
+              "id": "stream",
+              "label": "Stream"
             },
             {
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "b6796bf0-3acd-4775-b79e-7f3e99ae50ba",
+                "concept": "ae9e967f-b7a4-49ab-a218-6b29557b3323",
                 "answers": [
                   {
-                    "concept": "703AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Positive"
+                    "concept": "925b030a-561d-467f-abb9-a974b8b62ecc",
+                    "label": "Cat 1: Emergency"
                   },
                   {
-                    "concept": "664AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Negative"
+                    "concept": "069c0927-866e-41fa-89d9-fbece3da74bf",
+                    "label": "Cat 2:"
+                  },
+                  {
+                    "concept": "c4343bf5-d662-4d14-8664-1eeb1892e023",
+                    "label": "Cat3: Non-Urgent"
                   }
                 ]
               },
-              "id": "pelvicCompression",
-              "label": "Pelvic compression"
+              "id": "re-TriageCategory",
+              "label": "Re-Triage Category"
             },
             {
               "type": "obs",
               "questionOptions": {
-                "rendering": "radio",
-                "concept": "b24b61a0-078d-4fb3-9464-c10277fb8c60",
-                "answers": [
-                  {
-                    "concept": "703AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Positive"
-                  },
-                  {
-                    "concept": "664AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Negative"
-                  }
-                ]
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
               },
-              "id": "spinalTenderness",
-              "label": "Spinal tenderness"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "d99a8b1a-01fe-49a1-9b0f-0d0d7e790dd3",
-                "answers": [
-                  {
-                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Yes"
-                  },
-                  {
-                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "No"
-                  }
-                ]
-              },
-              "id": "secondarySurvey",
-              "label": "Secondary survey"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "19ca1572-7364-454f-bbdf-059cee635bbc",
-                "answers": [
-                  {
-                    "concept": "590af6cf-20e2-42c8-a9b1-dbd0d2e2def4",
-                    "label": "Given"
-                  },
-                  {
-                    "concept": "ddd9012d-4865-4f2b-b050-e9ac86dee7dc",
-                    "label": "Not given"
-                  }
-                ]
-              },
-              "id": "definitiveCare",
-              "label": "Definitive care"
-            }
-          ]
-        },
-        {
-          "label": "Primary Survey and Resuscitation",
-          "isExpanded": "true",
-          "questions": [
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "e416e3f4-39d5-4ece-b6f8-968ab2afe173",
-                "answers": [
-                  {
-                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Yes"
-                  },
-                  {
-                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "No"
-                  }
-                ]
-              },
-              "id": "airwayEvaluation",
-              "label": "Airway evaluation",
-              "questionInfo": "A- Airway (clear) and cervical spine control (Y/N)"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "b6a72512-6c1a-4981-b53a-dd873f51dbb0",
-                "answers": [
-                  {
-                    "concept": "827aa5c4-675f-42e5-82e3-17b2fa208ba5",
-                    "label": "Symmetrical"
-                  },
-                  {
-                    "concept": "9ec503f1-4743-4499-b814-cbc5349600a2",
-                    "label": "Asymmetrical"
-                  }
-                ]
-              },
-              "id": "breathingDifficulties",
-              "label": "Breathing difficulties",
-              "questionInfo": "B- Breathing (RR) pattern symmetrical/asymmetrical>"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "57b0898c-4b47-4f48-86ff-f1e59bf5a7a7",
-                "answers": [
-                  {
-                    "concept": "1115AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Normal"
-                  },
-                  {
-                    "concept": "2d20ec94-ca2a-4693-a874-f275585c2572",
-                    "label": "Abnormal"
-                  }
-                ]
-              },
-              "id": "circulationProblem",
-              "label": "Circulation problem",
-              "questionInfo": "C-Circulation and hemorrhage control, tachycardia/bradycardia, CRT-NA, SPo2"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "textarea",
-                "concept": "4fa4fa63-9d6d-49b9-81d8-681e096d19a3"
-              },
-              "id": "exposureProblem",
-              "label": "Exposure problem",
-              "questionInfo": "E- Exposure and environmental control (Y/N)"
-            }
-          ]
-        },
-        {
-          "label": "Disability",
-          "isExpanded": "true",
-          "questions": [
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "number",
-                "concept": "f24113ee-978d-4dd2-a15d-e7484f2d5ce5"
-              },
-              "id": "gcs",
-              "label": "GCS",
-              "questionInfo": "Minimum 3 Maximum 15"
-            },
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "radio",
-                "concept": "e751b874-c284-4858-99da-745f67eeb0e8",
-                "answers": [
-                  {
-                    "concept": "72609AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Alert"
-                  },
-                  {
-                    "concept": "a45b466c-82bf-46fc-a914-f0c92bcfafb3",
-                    "label": "Pain"
-                  },
-                  {
-                    "concept": "7330dec8-c617-4f58-babf-c3ae8e58fc71",
-                    "label": "Unconscious"
-                  },
-                  {
-                    "concept": "4299ab97-cd35-455e-8aa8-ab54b7abd5d3",
-                    "label": "Verval"
-                  }
-                ]
-              },
-              "id": "avpu",
-              "label": "AVPU"
-            }
-          ]
-        },
-        {
-          "label": "Current Medication",
-          "isExpanded": "true",
-          "questions": [
-            {
-              "type": "obs",
-              "questionOptions": {
-                "rendering": "textarea",
-                "concept": "69623642-68ad-410a-aad0-610954355aba"
-              },
-              "id": "currentHomeMedications",
-              "label": "Current Home Medications"
+              "id": "date-Time",
+              "label": "Date",
+              "datePickerFormat": "both"
             },
             {
               "type": "obs",
               "questionOptions": {
                 "rendering": "text",
-                "concept": "bf731597-1da6-4723-bd2d-2d8ea7fa6a99"
+                "concept": "a9a212da-300e-4fb7-b151-b54de7629aca"
               },
-              "id": "nonComplianceReason",
-              "label": "Non Compliance Reason"
+              "id": "reason",
+              "label": "Reason"
+            }
+          ]
+        },
+        {
+          "label": "Treatment",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
+              },
+              "id": "datetime",
+              "label": "Date",
+              "datePickerFormat": "both"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "multi-provider-select",
+                "concept": "f4f0eec4-5a84-419c-9192-df30ffc72a4c"
+              },
+              "id": "staffMember",
+              "label": "Staff Member"
             },
             {
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "ca9a6c88-4436-49bf-bcf1-86fc48f869b2",
+                "minLength": "",
+                "concept": "447ddb1b-acff-45f6-97b9-66e793e8d447",
                 "answers": [
                   {
-                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "Yes"
+                    "concept": "a523604f-bc1a-4f51-95e8-bece56ae1d9b",
+                    "label": "Medical Officer"
                   },
                   {
-                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "label": "No"
+                    "concept": "0d9bd3e9-b3ce-497c-a26b-144c34056a77",
+                    "label": "Health Emergency Operation Center"
+                  },
+                  {
+                    "concept": "8ff277f4-d3e3-4303-b426-7260b11e365d",
+                    "label": "Nursing Officer"
+                  },
+                  {
+                    "concept": "8b306906-4e22-4864-9406-fe0a4dcd9b3b",
+                    "label": "Community Health Worker"
                   }
                 ]
               },
-              "id": "nonCompliance",
-              "label": "Non Compliance"
+              "id": "primaryRoleInEmergencyTreatment",
+              "label": "Primary Role in Emergency Treatment"
             }
           ]
         }
       ]
     },
     {
-      "label": "Assesment / Plan",
+      "label": "Disposition",
       "sections": [
         {
-          "label": "Assessment / Plan",
+          "label": "Discharge",
           "isExpanded": "true",
           "questions": [
             {
               "type": "obs",
               "questionOptions": {
-                "rendering": "textarea",
-                "concept": "3a8832ef-4487-4907-85c4-1a799b8aa2ec"
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
               },
-              "id": "problem",
-              "label": "Problem"
+              "id": "dateTime",
+              "label": "Date",
+              "datePickerFormat": "both"
             },
             {
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "1e45c626-4cfc-430c-9288-49acd139cfcf",
+                "concept": "8805c00a-aa3b-4e24-9222-f299b925e298",
                 "answers": [
                   {
-                    "concept": "b41d3471-9d5f-4953-bc34-2dbb43633a27",
-                    "label": "1 week"
+                    "concept": "ccd96fe1-e665-420b-962e-9a5050bbc2ce",
+                    "label": "Left at own risk"
                   },
                   {
-                    "concept": "30094b86-4158-4a78-bbda-e63496ccaaa6",
-                    "label": "2 weeks"
+                    "concept": "9ebb4202-49a5-41a7-bce7-71ddd9d23653",
+                    "label": "Left without BS"
                   },
                   {
-                    "concept": "9e1a148a-cc8e-458e-ad9b-df6f13537b7f",
-                    "label": "3 weeks"
-                  },
-                  {
-                    "concept": "ee33588f-86d6-4b92-975e-2ade7fb52621",
-                    "label": "1 month"
+                    "concept": "a1e56344-cbec-44af-a7d9-1aca53854052",
+                    "label": "Absconded"
                   }
                 ]
               },
-              "id": "followUp",
-              "label": "Follow Up "
+              "id": "dischareStatus",
+              "label": "Dischare Status"
+            }
+          ]
+        },
+        {
+          "label": "Deceased",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
+              },
+              "id": "ddateTime",
+              "label": "Date",
+              "datePickerFormat": "both"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "c93bae5a-cb02-4188-95c1-c1bd35b09e46",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "deadOnArrival",
+              "label": "Dead on Arrival"
+            }
+          ]
+        },
+        {
+          "label": "Transfer",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "multi-provider-select",
+                "concept": "f4f0eec4-5a84-419c-9192-df30ffc72a4c"
+              },
+              "id": "team",
+              "label": "Team"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
+              },
+              "id": "Tdate-Time",
+              "label": "Date",
+              "datePickerFormat": "both"
+            }
+          ]
+        },
+        {
+          "label": "Admission",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "control",
+              "questionOptions": {
+                "rendering": "markdown"
+              },
+              "id": "Refer TO Inpatient Team",
+              "value": "Refer To Inpatient Team"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "extension-widget",
+                "concept": "f4f0eec4-5a84-419c-9192-df30ffc72a4c"
+              },
+              "id": "Ateam",
+              "label": "Team",
+              "datePickerFormat": "both"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
+              },
+              "id": "Adate-Time",
+              "label": "Date",
+              "datePickerFormat": "both"
+            },
+            {
+              "type": "control",
+              "questionOptions": {
+                "rendering": "markdown"
+              },
+              "id": "Admission By Inpatient Team",
+              "value": "Admission By Inpatient Team"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
+              },
+              "id": "date",
+              "label": "Date",
+              "datePickerFormat": "both"
+            },
+            {
+              "type": "control",
+              "questionOptions": {
+                "rendering": "markdown"
+              },
+              "id": "transferToWard/Discharge",
+              "label": "Transfer To Ward/Discharge",
+              "value": "Transfer To Ward/Discharge"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "31b7ef2b-5a65-49a9-8658-447452c415fa"
+              },
+              "id": "ward",
+              "label": "Ward"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
+              },
+              "id": "datew",
+              "label": "Date",
+              "datePickerFormat": "both"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Findings",
+      "sections": [
+        {
+          "label": "Surveillance",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "26eeaa1a-26ca-4d3a-a569-49cab09686fd",
+                "answers": [
+                  {
+                    "concept": "0db78ddb-954b-4b7f-9fae-fd855a25bb11",
+                    "label": "Severe Pneumonia"
+                  },
+                  {
+                    "concept": "1b108931-3a8e-4b98-be13-0930a954cb99",
+                    "label": "Severe Head Injury"
+                  },
+                  {
+                    "concept": "1cdc4a56-4a2d-4701-9143-f2519b6d7684",
+                    "label": "Severe Asthma or COPD"
+                  },
+                  {
+                    "concept": "3aa6255c-5952-43f1-8405-2ff5a360e1ba",
+                    "label": "Septic Shock"
+                  },
+                  {
+                    "concept": "0a50db18-7d83-41f9-a65b-687c8792e06f",
+                    "label": "Ruptured Ectopic"
+                  },
+                  {
+                    "concept": "c7fd0e0f-828b-4793-ac92-ea116c3c13d3",
+                    "label": "Meningitis"
+                  },
+                  {
+                    "concept": "62e46bde-bd3e-4ff0-ac30-346252e5b8ed",
+                    "label": "Major Burns"
+                  },
+                  {
+                    "concept": "54fa9639-3392-4cf6-b9a8-26adbb35e18a",
+                    "label": "Appendicitis"
+                  },
+                  {
+                    "concept": "ad74c847-544f-4421-b8f7-106b01e6607c",
+                    "label": "AMI"
+                  }
+                ]
+              },
+              "id": "survelliance",
+              "label": "Survelliance"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "a1c823d9-003f-49b8-a8ec-00e183495ab2",
+                "answers": [
+                  {
+                    "concept": "a3cbc0ef-99de-4d0b-9633-40f9adbb3c14",
+                    "label": "Awaiting Investigations or Results"
+                  },
+                  {
+                    "concept": "5d8c1b1e-b0e4-4eca-a188-253d61294ad9",
+                    "label": "Unable to Contact Unit"
+                  },
+                  {
+                    "concept": "97b9eb27-b5fd-4a88-9002-20196b7bb6ca",
+                    "label": "Admission declined"
+                  },
+                  {
+                    "concept": "5640d009-4bd2-422b-be97-5660c63e6a60",
+                    "label": "No Ward Bed"
+                  },
+                  {
+                    "concept": "2ed8c8e2-9ab5-4969-9df8-4f5deb596c90",
+                    "label": "Inadequate ward staffing"
+                  },
+                  {
+                    "concept": "fbf8a440-a21d-447e-ac33-22a0c936344c",
+                    "label": "No transfer staff"
+                  },
+                  {
+                    "concept": "d4bae4df-fd45-435b-8b81-efc8ea90d61d",
+                    "label": "Clinical Instability"
+                  }
+                ]
+              },
+              "id": "delayFactorsPresent",
+              "label": "Delay Factors Present"
+            }
+          ]
+        },
+        {
+          "label": "Chief Complaints",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "363376d3-9fdb-40ad-aebd-24394735969f",
+                "answers": [
+                  {
+                    "concept": "77ee59bb-9fc3-4b20-beb9-bf2ea4a068bb",
+                    "label": "Cardiorespiratiory arrest"
+                  },
+                  {
+                    "concept": "e245c72a-a378-40ef-a872-d66c9f0c9740",
+                    "label": "Cardiac- chest pain"
+                  },
+                  {
+                    "concept": "143264AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Cough"
+                  },
+                  {
+                    "concept": "ab7db0a7-d0a9-4f32-a562-4ff05ad0db80",
+                    "label": "Cardiac- other"
+                  },
+                  {
+                    "concept": "47ce3689-d509-49e8-a741-a763ce9c9ab9",
+                    "label": "Difficulty breathing"
+                  },
+                  {
+                    "concept": "83918836-5c2a-4259-91e3-fedc693cff4a",
+                    "label": "Wheezing"
+                  },
+                  {
+                    "concept": "515f3978-1530-4e2e-a6c0-c1f41d9f7cf1",
+                    "label": "Bleeding - with cough"
+                  }
+                ]
+              },
+              "id": "cardiorespiratory",
+              "label": "Cardiorespiratory"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "74525968-6d85-4921-85d2-a1b111816c74",
+                "answers": [
+                  {
+                    "concept": "5bdfefe6-07cf-4665-a065-7ad119eacb0f",
+                    "label": "Focal weakness or numbness"
+                  },
+                  {
+                    "concept": "139084AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Headache"
+                  },
+                  {
+                    "concept": "322c7fca-2e8f-4b19-9dcf-4b43d93c18d6",
+                    "label": "Confusion"
+                  },
+                  {
+                    "concept": "039c6271-e2ac-438f-ac93-75fa4a5d6879",
+                    "label": "Dizziness or general weakness"
+                  },
+                  {
+                    "concept": "8c2f02ff-cf9e-4075-94b4-4644a322f218",
+                    "label": "Selzure or convulsion"
+                  },
+                  {
+                    "concept": "62d1fe65-5c64-4112-af74-a07ff011b1d4",
+                    "label": "Difficulty walking"
+                  },
+                  {
+                    "concept": "fd53b22c-892a-4eb7-823e-4598e93eedeb",
+                    "label": "Loss of consciousness or faint"
+                  },
+                  {
+                    "concept": "28ec0f67-10d0-4037-bb37-1765becc7149",
+                    "label": "Abnormal behaviour/mental state"
+                  }
+                ]
+              },
+              "id": "neurological",
+              "label": "Neurological"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "20cee2c8-e72c-483e-a842-1cfddd031561",
+                "answers": [
+                  {
+                    "concept": "dbd4a829-cdb8-4133-ac80-fb991ebaa7d0",
+                    "label": "Hypo-orhypergiycaemal"
+                  },
+                  {
+                    "concept": "dec59d08-db50-45af-8e2b-d00b30c46894",
+                    "label": "Complication of diabetes"
+                  }
+                ]
+              },
+              "id": "metabolic",
+              "label": "Metabolic"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "10568691-6547-4c0e-af5b-0efb792d29fd",
+                "answers": [
+                  {
+                    "concept": "69b545c1-db47-40fc-a7e5-8b84bcb22253",
+                    "label": "TB-Suspected/Confirmed"
+                  },
+                  {
+                    "concept": "5129fd42-303a-4533-94f1-dcba3704bb6a",
+                    "label": "Malaria-Suspected/Confirmed"
+                  },
+                  {
+                    "concept": "663ba9e7-c083-4ea0-aefb-7bb13de55514",
+                    "label": "Fever or chills"
+                  },
+                  {
+                    "concept": "d1f3c4f1-76d1-4097-8f9f-569c8524e7f4",
+                    "label": "HIV-Suspected/Confirmed"
+                  },
+                  {
+                    "concept": "7a03d5ef-4a1c-4585-b279-61795cce5e5b",
+                    "label": "Flu or cold like symptoms"
+                  }
+                ]
+              },
+              "id": "infectious",
+              "label": "infectious"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "3304023a-beab-4573-a36c-7d6f5b7e9109",
+                "answers": [
+                  {
+                    "concept": "e0e768ab-1308-4075-ae72-160bc388d6fa",
+                    "label": "Nausea or Vomiting"
+                  },
+                  {
+                    "concept": "e8e92a6b-a3ab-4a05-92a9-2eea8a6fa3c6",
+                    "label": "Diarrhoea"
+                  },
+                  {
+                    "concept": "2334efad-79eb-4ebe-8477-be73908c2ac9",
+                    "label": "Bleeding in stool"
+                  },
+                  {
+                    "concept": "a136b71d-30d4-4777-b283-47c9da8e69df",
+                    "label": "Abdominal pain/distension"
+                  },
+                  {
+                    "concept": "12310f6a-07d1-4ce3-8b81-177b51da1b6e",
+                    "label": "Bleeding in vomit"
+                  },
+                  {
+                    "concept": "136443AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Jaundice"
+                  },
+                  {
+                    "concept": "7e812cf6-1b2f-42bd-b6df-a1a3bba2b70b",
+                    "label": "Loss of appetite/ decreased intake"
+                  }
+                ]
+              },
+              "id": "gastrointestinal",
+              "label": "Gastrointestinal"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "69c309c2-e804-457a-ae1f-eea2c10155bc",
+                "answers": [
+                  {
+                    "concept": "1065d327-f1de-437a-9e61-de19020ecf7f",
+                    "label": "Bleeding from nose"
+                  },
+                  {
+                    "concept": "704ccaef-7b91-44a9-8b51-091ad664785d",
+                    "label": "Foreign body (FB) in ear/nose"
+                  },
+                  {
+                    "concept": "03ba67ec-3b4e-4295-8f0a-cc4e7b36e055",
+                    "label": "Eye problem"
+                  },
+                  {
+                    "concept": "1ce71303-bd4a-443e-bb92-edc44b68deb7",
+                    "label": "FB inhaled/swallowed"
+                  },
+                  {
+                    "concept": "902bb137-51dc-489d-a39a-9086dbfbfc69",
+                    "label": "Tooth problem"
+                  },
+                  {
+                    "concept": "fe6d5160-efc5-4cfa-a35a-3758e19e2f02",
+                    "label": "Ear problem"
+                  }
+                ]
+              },
+              "id": "ent",
+              "label": "ENT"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "990e1825-df25-4098-8287-ddcc18ac221d",
+                "answers": [
+                  {
+                    "concept": "9255db19-3bfc-4d3e-bad3-be05d3d151d2",
+                    "label": "Non acute wound or ulcer"
+                  },
+                  {
+                    "concept": "08f21d9b-bd0f-4480-add2-816bfb082d11",
+                    "label": "Fallure to thrive"
+                  },
+                  {
+                    "concept": "512AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Rash"
+                  },
+                  {
+                    "concept": "121689AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Allergic reaction"
+                  },
+                  {
+                    "concept": "4cc0d1c8-89a5-4631-ae70-c152133047d1",
+                    "label": "Bleeding other"
+                  },
+                  {
+                    "concept": "e2d96494-5c4a-4088-b4ac-58192a008882",
+                    "label": "Mass"
+                  },
+                  {
+                    "concept": "41e5eede-a8cb-49ff-83db-b83a67e82a16",
+                    "label": "Intoxication deliberate self harm"
+                  },
+                  {
+                    "concept": "48d86886-3c3d-4711-8716-b7adbde5ab0a",
+                    "label": "Limb pain"
+                  },
+                  {
+                    "concept": "ee19fe86-505d-494f-a5ee-0767bec11ec1",
+                    "label": "Back pain"
+                  },
+                  {
+                    "concept": "0cebf5ad-8020-4e72-a899-a208d0938a08",
+                    "label": "Intoxiation recreational"
+                  },
+                  {
+                    "concept": "4c61e609-32fe-4597-919d-43456b260e0f",
+                    "label": "Gender based violence(GBV)"
+                  },
+                  {
+                    "concept": "b6394c93-2b08-4115-8e0e-22c542eb1413",
+                    "label": "Swelling"
+                  },
+                  {
+                    "concept": "fe184342-867a-473c-a8ba-6ef8ef19b515",
+                    "label": "Injury (Comlete section below)"
+                  },
+                  {
+                    "concept": "5622AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Other"
+                  }
+                ]
+              },
+              "id": "otherFindings",
+              "label": "Other Findings"
+            }
+          ]
+        },
+        {
+          "label": "Injury",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "dbd7f5f6-73e9-40b6-86b9-487d31c2e39d",
+                "answers": [
+                  {
+                    "concept": "7c4ee53c-a21b-4b6b-a016-7fee2c56b2dd",
+                    "label": "Self harm"
+                  },
+                  {
+                    "concept": "1d4e8ebd-280d-4cf5-90cc-bfdc8206444c",
+                    "label": "Unintentional"
+                  },
+                  {
+                    "concept": "6dd1758d-6b97-472a-b0da-6e25132bd496",
+                    "label": "Assault"
+                  },
+                  {
+                    "concept": "02a77352-5baf-48b8-aff9-a56b31c0fb6e",
+                    "label": "Legal/Military"
+                  }
+                ]
+              },
+              "id": "injuryIntent",
+              "label": "Injury Intent"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "bdd4dbfc-77be-4a69-bcfc-60de4249bfa8",
+                "answers": [
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  },
+                  {
+                    "concept": "a128333c-942a-4ab3-ba42-a4ceb757a343",
+                    "label": "Physical"
+                  },
+                  {
+                    "concept": "c4d7c987-f1f9-4463-8a5d-542fc497a9ae",
+                    "label": "Sexual"
+                  },
+                  {
+                    "concept": "de857335-4edc-46c6-89c2-f77904149cde",
+                    "label": "Physical and Sexual"
+                  }
+                ]
+              },
+              "id": "genderBasedViolence",
+              "label": "Gender Based Violence"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "c977d34b-0456-4e1d-8fc6-62586d3a76c6",
+                "answers": [
+                  {
+                    "concept": "784f0c42-60f6-45d7-8eec-35de87acd834",
+                    "label": "RTA"
+                  },
+                  {
+                    "concept": "e2f50854-e6cd-4ab7-97a7-ace4a7d9821a",
+                    "label": "Gunshot"
+                  },
+                  {
+                    "concept": "686701a5-e076-4c84-be06-ccdee7257698",
+                    "label": "Bum"
+                  },
+                  {
+                    "concept": "562d7356-cc9a-4f49-ac5f-d5675d9293cb",
+                    "label": "Blunt force"
+                  },
+                  {
+                    "concept": "0a233388-efe3-462b-b641-3f9d1baa8ae3",
+                    "label": "Fall"
+                  },
+                  {
+                    "concept": "b72f4c8f-0aef-4fb0-b35d-3e11135151cb",
+                    "label": "Stab or cut"
+                  },
+                  {
+                    "concept": "51d30545-d3aa-4dac-9bd9-4a7b697e8367",
+                    "label": "Drowning"
+                  },
+                  {
+                    "concept": "5622AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Other"
+                  }
+                ]
+              },
+              "id": "injuryMechanism",
+              "label": "Injury Mechanism"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "f2c99c41-e765-40a8-a0e4-00abc1317a5b",
+                "answers": [
+                  {
+                    "concept": "b145ce2d-1e85-4abe-9c72-5180cce98421",
+                    "label": "Head or neck"
+                  },
+                  {
+                    "concept": "2bffa2f2-ebd2-4659-b114-1f042648a317",
+                    "label": "Eye"
+                  },
+                  {
+                    "concept": "3a15841c-4727-4b2a-a28f-0d1a02bbe442",
+                    "label": "Chest"
+                  },
+                  {
+                    "concept": "ea48d8c8-583e-426f-88e4-1ab08b29f190",
+                    "label": "Extremity"
+                  },
+                  {
+                    "concept": "c5ea41a4-75f7-494b-8a84-ee7d33173c6c",
+                    "label": "Abdomen"
+                  },
+                  {
+                    "concept": "ffe6bbfa-b65a-41c8-badb-24b66d44e3ad",
+                    "label": "Pelvis"
+                  },
+                  {
+                    "concept": "57089058-2382-4d98-837b-946b2c4c7cb5",
+                    "label": "Back"
+                  }
+                ]
+              },
+              "id": "location",
+              "label": "Location"
             }
           ]
         }
@@ -653,6 +991,8 @@
   "published": true,
   "retired": false,
   "formRules": {
-    "locationTags": ["Admission Location"]
+    "locationTags": [
+      "Admission Location"
+    ]
   }
 }

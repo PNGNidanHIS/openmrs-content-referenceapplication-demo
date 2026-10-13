@@ -1,0 +1,219 @@
+{
+  "name": "Ultrasound/Mammography Request Form",
+  "pages": [
+    {
+      "label": "Location of Patient",
+      "sections": [
+        {
+          "label": "Location",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "b419bf5d-ff45-4e05-87a4-47ff13fc35b5"
+              },
+              "id": "ip-Ward/Op",
+              "label": "IP-Ward/OP"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "c475db84-b845-43eb-adba-4c1faeed6fd5"
+              },
+              "id": "admissionNo.",
+              "label": "Admission No."
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "2dfcc1a6-1056-43b8-9b09-b9314854e7ce"
+              },
+              "id": "procedure",
+              "label": "Procedure"
+            }
+          ]
+        },
+        {
+          "label": "Clinical Information",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "5f377e63-f383-4f5b-835c-9e6fab1f04f8"
+              },
+              "id": "backgroundInformationIfAny",
+              "label": "Background Information If any"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "8845f19f-e506-4a6f-918a-1b2a35e16b55"
+              },
+              "id": "patientComplain",
+              "label": "Patient Complain"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "c34f4a85-4cba-41a0-83ad-1819db346ef0"
+              },
+              "id": "salientExaminationFindings",
+              "label": "Salient Examination Findings"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "58a952a3-e032-498c-9832-8fd7b65c13f7"
+              },
+              "id": "relevantInvestigationDone",
+              "label": "Relevant Investigation Done"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "600f6ff5-ca78-4928-9fce-e750aafe9641"
+              },
+              "id": "diagnosis",
+              "label": "Diagnosis"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "multi-provider-select",
+                "minLength": "Providers",
+                "concept": "f4f0eec4-5a84-419c-9192-df30ffc72a4c"
+              },
+              "id": "doctorName",
+              "label": "Doctor Name"
+            }
+          ]
+        },
+        {
+          "label": "Appointment",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "datetime",
+                "concept": "258e22bc-c936-4775-95c7-eecaf95d4e6b"
+              },
+              "id": "date",
+              "label": "Date",
+              "datePickerFormat": "both"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "82494148-3771-4df5-8dc8-fcdd7627ce60",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "4-6HoursFasting(Npo)",
+              "label": "4-6 Hours Fasting(NPO)"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "10dc6a47-a8d5-4fdd-a9f7-155c84af654b",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "fullBladder",
+              "label": "Full Bladder"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "ef41ca0f-2fbe-4147-b702-59b136cab49e",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "noLotion/PowderOnBreast",
+              "label": "No Lotion/ Powder on Breast"
+            }
+          ]
+        },
+        {
+          "label": "Findings",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "textarea",
+                "concept": "e2114909-a7e2-4d92-9446-4540bea83801"
+              },
+              "id": "report",
+              "label": "Report"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "c7a754d4-db01-4c3c-ab9f-0b6f25ed89a1"
+              },
+              "id": "approvedUnapproved(OtherTest)",
+              "label": "Approved Unapproved (Other Test)"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "multi-provider-select",
+                "concept": "f4f0eec4-5a84-419c-9192-df30ffc72a4c"
+              },
+              "id": "drKendsura(Dchs)",
+              "label": "Dr Kendsura (DCHS)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processor": "EncounterFormProcessor",
+  "encounterType": "dd528487-82a5-4082-9c72-ed246bd49591",
+  "referencedForms": [],
+  "uuid": "355e5c77-84d9-416b-b257-6bf911aeaca5",
+  "description": "Ultrasound request form",
+  "encounter": "Consultation",
+  "published": true,
+  "retired": false,
+  "version": "1"
+}
