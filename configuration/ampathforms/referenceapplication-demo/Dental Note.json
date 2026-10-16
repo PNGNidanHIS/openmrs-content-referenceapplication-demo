@@ -134,60 +134,212 @@
             {
               "type": "obs",
               "questionOptions": {
-                "rendering": "checkbox",
-                "concept": "5f4a32b2-794e-4e8a-a88b-a88a2ba06886",
+                "rendering": "checkbox-searchable",
+                "concept": "489fa4b6-87b3-44d5-863c-fc1a9a99ae21",
                 "answers": [
                   {
-                    "concept": "164adc96-6231-4e83-b6e8-6f593e5fcee4",
-                    "label": "1"
+                    "concept": "221463ee-18bd-42c0-96c9-364834d1393a",
+                    "label": "Tooth 11 (FDI), permanent upper right central incisor"
                   },
                   {
-                    "concept": "24672ed9-2ad9-4188-a1bb-bf0085bc52b0",
-                    "label": "2"
+                    "concept": "5f832ab4-bf91-4f9a-afcb-851db7598335",
+                    "label": "Tooth 12 (FDI), permanent upper right lateral incisor"
                   },
                   {
-                    "concept": "3f77ac24-7dd8-42bc-8d6b-f21518292f12",
-                    "label": "3"
+                    "concept": "07bc863c-db3c-4c94-a599-1792882352b0",
+                    "label": "Tooth 13 (FDI), permanent upper right canine"
                   },
                   {
-                    "concept": "2b0cdcab-92cb-4395-8531-2b4bab7db07e",
-                    "label": "4"
+                    "concept": "a3d4de72-253e-46db-b339-385e1afb3b95",
+                    "label": "Tooth 14 (FDI), permanent upper right first premolar"
                   },
                   {
-                    "concept": "fd151b3b-c6d6-4fe5-87b1-158303d51237",
-                    "label": "5"
+                    "concept": "6aa013ea-d1c9-4d5b-ac58-7afd90dd0267",
+                    "label": "Tooth 16 (FDI), permanent upper right first molar"
                   },
                   {
-                    "concept": "33ce3991-0ca6-473b-bd23-da5f85683162",
-                    "label": "6"
+                    "concept": "06205d5a-8a52-4f54-a810-8db3b50fd3f2",
+                    "label": "Tooth 17 (FDI), permanent upper right second molar"
                   },
                   {
-                    "concept": "2bedd1b8-82c2-4468-ae01-6b8db8191b53",
-                    "label": "7"
+                    "concept": "15d0e7b6-3871-42ab-a048-f5cdc43c4ae0",
+                    "label": "Tooth 18 (FDI), permanent upper right third molar"
                   },
                   {
-                    "concept": "86967c2a-ff8c-4ec0-a840-7c959916aafc",
-                    "label": "8"
+                    "concept": "b5a06d25-8221-49c8-a3d6-4e88e9aad9aa",
+                    "label": "Tooth 21 (FDI), permanent upper left central incisor"
                   },
                   {
-                    "concept": "f28928cc-5582-49c6-9719-3f39a1b0b96c",
-                    "label": "A"
+                    "concept": "4bd5de70-c213-415d-9f65-9c05f66a2e40",
+                    "label": "Tooth 22 (FDI), permanent upper left lateral incisor"
                   },
                   {
-                    "concept": "21ea6ff4-11c9-4665-a9bf-74a96b0c6e94",
-                    "label": "B"
+                    "concept": "0fb4318d-5ebe-417d-b50f-28ff0c0b2dd3",
+                    "label": "Tooth 23 (FDI), permanent upper left canine"
                   },
                   {
-                    "concept": "7b968222-fc0f-4df0-b842-caf4a200ad63",
-                    "label": "C"
+                    "concept": "27cb0953-8dd2-42a3-85a4-5bbc27cea034",
+                    "label": "Tooth 24 (FDI), permanent upper left first premolar"
                   },
                   {
-                    "concept": "8bf209ca-e3c8-47d7-a2a2-0567afedb80a",
-                    "label": "D"
+                    "concept": "bf5152c7-d201-4ddc-8feb-0a33855399ce",
+                    "label": "Tooth 25 (FDI), permanent upper left second premolar"
                   },
                   {
-                    "concept": "0cebb311-0ada-437b-ac6f-73578dfdd4de",
-                    "label": "E"
+                    "concept": "d4ae907f-0fba-44c4-a318-5149255e39d7",
+                    "label": "Tooth 26 (FDI), permanent upper left first molar"
+                  },
+                  {
+                    "concept": "b8e6e9ce-b13d-46bf-be02-4c08714adcaa",
+                    "label": "Tooth 27 (FDI), permanent upper left second molar"
+                  },
+                  {
+                    "concept": "10a42290-cca3-419d-b646-3570bb1c6a29",
+                    "label": "Tooth 28 (FDI), permanent upper left third molar"
+                  },
+                  {
+                    "concept": "de5043ad-20b6-485c-bacc-dd8e4bf6b2fa",
+                    "label": "Tooth 31 (FDI), permanent lower left central incisor"
+                  },
+                  {
+                    "concept": "7dafc35d-48d2-44a5-b5fe-57c59299c1e4",
+                    "label": "Tooth 32 (FDI), permanent lower left lateral incisor"
+                  },
+                  {
+                    "concept": "9a685b01-1157-417e-85a9-ce9c6956c73b",
+                    "label": "Tooth 33 (FDI), permanent lower left canine"
+                  },
+                  {
+                    "concept": "610b1252-042d-4335-93aa-354530ed7a44",
+                    "label": "Tooth 34 (FDI), permanent lower left first premolar"
+                  },
+                  {
+                    "concept": "d948a9c3-00ca-4b41-9c57-75682277c197",
+                    "label": "Tooth 35 (FDI), permanent lower left second premolar"
+                  },
+                  {
+                    "concept": "b5972c48-67cd-4558-a592-b2641b87c14b",
+                    "label": "Tooth 36 (FDI), permanent lower left first molar"
+                  },
+                  {
+                    "concept": "5218b7e0-2c7d-48e8-8d66-d9e3cef59352",
+                    "label": "Tooth 37 (FDI), permanent lower left second molar"
+                  },
+                  {
+                    "concept": "a8c6e541-3da9-4b5d-9863-19742e0c265e",
+                    "label": "Tooth 38 (FDI), permanent lower left third molar"
+                  },
+                  {
+                    "concept": "d28a3920-3a67-453c-8416-caf9681b0bc9",
+                    "label": "Tooth 41 (FDI), permanent lower right central incisor"
+                  },
+                  {
+                    "concept": "94f631cf-700b-4e60-a632-bcf5bcb8cccf",
+                    "label": "Tooth 42 (FDI), permanent lower right lateral incisor"
+                  },
+                  {
+                    "concept": "77c284d6-50c0-4451-b2a2-480193712955",
+                    "label": "Tooth 43 (FDI), permanent lower right canine"
+                  },
+                  {
+                    "concept": "94ebffe0-52ed-4dec-82fc-a37ecf4070c5",
+                    "label": "Tooth 44 (FDI), permanent lower right first premolar"
+                  },
+                  {
+                    "concept": "3ec5e4fe-2e7c-42b5-b1f2-0dd007a98f08",
+                    "label": "Tooth 45 (FDI), permanent lower right second premolar"
+                  },
+                  {
+                    "concept": "8399f391-1657-4ad9-8790-497917c378ba",
+                    "label": "Tooth 46 (FDI), permanent lower right first molar"
+                  },
+                  {
+                    "concept": "8f04ec47-bdad-40cb-8491-bc4c7afbf75a",
+                    "label": "Tooth 47 (FDI), permanent lower right second molar"
+                  },
+                  {
+                    "concept": "5d7f3c11-3ae2-41a9-964f-65fa4d3facc7",
+                    "label": "Tooth 48 (FDI), permanent lower right third molar"
+                  },
+                  {
+                    "concept": "48156839-d43e-498e-9a19-759fc58914a9",
+                    "label": "Tooth 51 (FDI), primary upper right central incisor"
+                  },
+                  {
+                    "concept": "2ea15ff1-688c-4c4f-9a38-13eac6910d13",
+                    "label": "Tooth 52 (FDI), primary upper right lateral incisor"
+                  },
+                  {
+                    "concept": "1ec666e1-7a5c-4b07-90b7-5a8303e7df04",
+                    "label": "Tooth 53 (FDI), primary upper right canine"
+                  },
+                  {
+                    "concept": "b4c91b23-f414-48dc-80fd-c82206e8e362",
+                    "label": "Tooth 54 (FDI), primary upper right first molar"
+                  },
+                  {
+                    "concept": "35bb47e7-757d-4b03-9490-e315f455f848",
+                    "label": "Tooth 55 (FDI), primary upper right second molar"
+                  },
+                  {
+                    "concept": "53466b9d-1c87-47e3-8c48-b476e5daa51c",
+                    "label": "Tooth 61 (FDI), primary upper left central incisor"
+                  },
+                  {
+                    "concept": "b97dd196-27bc-4316-b3b1-211fe37a15ee",
+                    "label": "Tooth 62 (FDI), primary upper left lateral incisor"
+                  },
+                  {
+                    "concept": "5223f613-28ac-42d5-bb67-37dac0998cf3",
+                    "label": "Tooth 63 (FDI), primary upper left canine"
+                  },
+                  {
+                    "concept": "5216eb57-a14d-4793-a876-429dd8e530b2",
+                    "label": "Tooth 64 (FDI), primary upper left first molar"
+                  },
+                  {
+                    "concept": "05ffcbb1-5bea-49e7-95c1-7a68ee87637e",
+                    "label": "Tooth 65 (FDI), primary upper left second molar"
+                  },
+                  {
+                    "concept": "d887e67d-93c4-47b8-804a-02dd1be52ee4",
+                    "label": "Tooth 71 (FDI), primary lower left central incisor"
+                  },
+                  {
+                    "concept": "5a651df3-6e01-4820-a35c-8b6e8c466ba3",
+                    "label": "Tooth 72 (FDI), primary lower left lateral incisor"
+                  },
+                  {
+                    "concept": "7135b89d-579b-413e-910d-fc9d435c4d82",
+                    "label": "Tooth 73 (FDI), primary lower left canine"
+                  },
+                  {
+                    "concept": "bd74d93a-9459-40c6-a90a-6ee169016c6c",
+                    "label": "Tooth 74 (FDI), primary lower left first molar"
+                  },
+                  {
+                    "concept": "2ad81d6c-2a1b-4515-928b-1af236e1a833",
+                    "label": "Tooth 75 (FDI), primary lower left second molar"
+                  },
+                  {
+                    "concept": "2c79a43e-538b-489e-94c1-9f1a6138936a",
+                    "label": "Tooth 81 (FDI), primary lower right central incisor"
+                  },
+                  {
+                    "concept": "a85bb31b-b6b9-421a-b94f-f693586596df",
+                    "label": "Tooth 82 (FDI), primary lower right lateral incisor"
+                  },
+                  {
+                    "concept": "bf013a30-1f51-4b3a-846a-4d69a5834dfb",
+                    "label": "Tooth 83 (FDI), primary lower right canine"
+                  },
+                  {
+                    "concept": "6b1cf2e9-85d4-4633-a03e-a3e85eea0835",
+                    "label": "Tooth 84 (FDI), primary lower right first molar"
+                  },
+                  {
+                    "concept": "fd213c1f-395c-4f0f-98dc-5f1fe020eaac",
+                    "label": "Tooth 85 (FDI), primary lower right second molar"
                   }
                 ]
               },
