@@ -12,7 +12,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "text",
-                "concept": "b419bf5d-ff45-4e05-87a4-47ff13fc35b5"
+                "concept": "bf003cb3-ca72-40ba-bea9-ab97984c3db7"
               },
               "id": "ip-Ward/Op",
               "label": "IP-Ward/OP"
@@ -21,7 +21,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "text",
-                "concept": "c475db84-b845-43eb-adba-4c1faeed6fd5"
+                "concept": "bae5a6cf-61ba-4f43-b1d2-fe08818ab31b"
               },
               "id": "admissionNo.",
               "label": "Admission No."
@@ -30,7 +30,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "text",
-                "concept": "2dfcc1a6-1056-43b8-9b09-b9314854e7ce"
+                "concept": "e10d9e58-9844-4da7-bdd7-b688e29648a5"
               },
               "id": "procedure",
               "label": "Procedure"
@@ -45,7 +45,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "text",
-                "concept": "5f377e63-f383-4f5b-835c-9e6fab1f04f8"
+                "concept": "4c88ba0f-7d1d-4cdb-88c6-e8ce98eb33b2"
               },
               "id": "backgroundInformationIfAny",
               "label": "Background Information If any"
@@ -54,7 +54,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "text",
-                "concept": "8845f19f-e506-4a6f-918a-1b2a35e16b55"
+                "concept": "e51aafd9-f8ca-4114-a526-60f3a58ebd66"
               },
               "id": "patientComplain",
               "label": "Patient Complain"
@@ -63,7 +63,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "text",
-                "concept": "c34f4a85-4cba-41a0-83ad-1819db346ef0"
+                "concept": "8d05bea7-7643-45c2-8f30-2a8cee1f3e1e"
               },
               "id": "salientExaminationFindings",
               "label": "Salient Examination Findings"
@@ -72,7 +72,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "text",
-                "concept": "58a952a3-e032-498c-9832-8fd7b65c13f7"
+                "concept": "4325be1f-c1bb-4889-8328-c52991fabd81"
               },
               "id": "relevantInvestigationDone",
               "label": "Relevant Investigation Done"
@@ -116,7 +116,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "82494148-3771-4df5-8dc8-fcdd7627ce60",
+                "concept": "a5dee717-3aa2-4a16-9b05-9445cb3f8b6e",
                 "answers": [
                   {
                     "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -135,7 +135,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "10dc6a47-a8d5-4fdd-a9f7-155c84af654b",
+                "concept": "db388aac-a808-4f65-85c3-65e517775e79",
                 "answers": [
                   {
                     "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -154,7 +154,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "radio",
-                "concept": "ef41ca0f-2fbe-4147-b702-59b136cab49e",
+                "concept": "94d55de1-0aef-49ad-8fe8-992cc95afe91",
                 "answers": [
                   {
                     "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -179,7 +179,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "textarea",
-                "concept": "e2114909-a7e2-4d92-9446-4540bea83801"
+                "concept": "298f1e1f-078e-4892-bda5-e8887f47bed0"
               },
               "id": "report",
               "label": "Report"
@@ -188,7 +188,7 @@
               "type": "obs",
               "questionOptions": {
                 "rendering": "text",
-                "concept": "c7a754d4-db01-4c3c-ab9f-0b6f25ed89a1"
+                "concept": "abc5fdd5-9a72-40b5-a467-04110048fb60"
               },
               "id": "approvedUnapproved(OtherTest)",
               "label": "Approved Unapproved (Other Test)"
