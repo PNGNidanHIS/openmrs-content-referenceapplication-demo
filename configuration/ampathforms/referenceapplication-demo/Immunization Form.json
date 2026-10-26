@@ -1,0 +1,554 @@
+{
+  "name": "Immnization Form",
+  "pages": [
+    {
+      "label": "Patient Details",
+      "sections": [
+        {
+          "label": "Patient Details",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "38dbc147-faa8-4b81-b4df-2c2e97875aa9"
+              },
+              "id": "fatherName",
+              "label": "Father's Name"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "text",
+                "concept": "3164ad4e-5c6e-470d-91dd-f29bcffad23a"
+              },
+              "id": "motherName",
+              "label": "Mother's Name"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "d29aa9f8-7a13-4349-8c91-1cc47164a4f6",
+                "answers": [
+                  {
+                    "concept": "b84e5256-eb93-4c76-9ab5-b5ce3ee751f5",
+                    "label": "Health Facility"
+                  },
+                  {
+                    "concept": "4eeaa887-daa8-4da1-bf6c-93f4cd76f9a6",
+                    "label": "Home by VBA"
+                  },
+                  {
+                    "concept": "5f3f2beb-3954-4246-ad20-2cf1c3f9950f",
+                    "label": "Home without VBA"
+                  }
+                ]
+              },
+              "id": "birthPlace",
+              "label": "Birth Place"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "checkbox-searchable",
+                "concept": "f556d72d-9572-4861-a875-4becbe8b1fc0",
+                "answers": [
+                  {
+                    "concept": "8cd87c3d-2df7-4e41-9b40-ac12f425fb6f",
+                    "label": "Andakombi SC"
+                  },
+                  {
+                    "concept": "3e2313f3-343c-4a22-a12e-ab96b7993073",
+                    "label": "Asaro HC"
+                  },
+                  {
+                    "concept": "66c7dba8-2e40-47d3-8e58-9f908b38d5d1",
+                    "label": "Barabundora SC"
+                  },
+                  {
+                    "concept": "ea51a995-b256-49d5-a1c4-90ebc2a7e030",
+                    "label": "Fore SC"
+                  },
+                  {
+                    "concept": "a8d7025d-d8bb-4765-87c5-2d8a6e2e7197",
+                    "label": "Goroka Base Hospital"
+                  },
+                  {
+                    "concept": "73661301-743f-4d36-9092-e64be0d88616",
+                    "label": "Gouno SC"
+                  },
+                  {
+                    "concept": "82feb297-d3f4-4d7e-b250-1263692eee1a",
+                    "label": "Henganofi HC"
+                  },
+                  {
+                    "concept": "85cc9906-5542-4c95-878f-42e763797bfd",
+                    "label": "Ivingoi SC"
+                  },
+                  {
+                    "concept": "7d62cbeb-5673-4d6e-9452-cc8b588aefa6",
+                    "label": "Henagaru SC"
+                  },
+                  {
+                    "concept": "52448b20-b294-4a9c-aacd-5e938789c08c",
+                    "label": "Kainantu Hospital"
+                  },
+                  {
+                    "concept": "7c5067be-f2b5-4c81-8939-cd7191857356",
+                    "label": "Kama UC"
+                  },
+                  {
+                    "concept": "ec939765-253c-4c67-826c-6d572bde92db",
+                    "label": "Kapakamarigi CHP"
+                  },
+                  {
+                    "concept": "d5b94246-5bf8-45a1-ab66-c81de8afdff8",
+                    "label": "Kassam DH"
+                  },
+                  {
+                    "concept": "fbf4e42a-e95b-4a3f-bd59-e40d0ed8ead1",
+                    "label": "Komperi SC"
+                  },
+                  {
+                    "concept": "0462586a-34ad-4b64-a78b-f30e98d27012",
+                    "label": "Kwongi SC"
+                  },
+                  {
+                    "concept": "744c0bfb-47ab-4133-97c6-351e60e1a6b0",
+                    "label": "Lufa HC"
+                  },
+                  {
+                    "concept": "842bb62d-5178-43e6-9e6a-532b8d3a90ba",
+                    "label": "Kesavaka SC"
+                  },
+                  {
+                    "concept": "6df88599-e066-46e3-a66a-6823279a9cf6",
+                    "label": "Marawaka HC"
+                  },
+                  {
+                    "concept": "6037a319-7ed5-4a75-89a4-c367e3cc96e3",
+                    "label": "Misapi SC"
+                  },
+                  {
+                    "concept": "1badff6c-3ac3-4c08-943c-10526587e519",
+                    "label": "Musave CHP"
+                  },
+                  {
+                    "concept": "6d6a1737-6d0a-4ce2-b686-fe42f2b650e9",
+                    "label": "North Goroka UC"
+                  },
+                  {
+                    "concept": "57770696-e951-4b78-896f-6a81a75a51d0",
+                    "label": "Nupuru SC"
+                  },
+                  {
+                    "concept": "3485d869-c39e-43fe-83c2-b16b3afb82d8",
+                    "label": "Obura SC"
+                  },
+                  {
+                    "concept": "b9c7d07e-a60d-4bc4-b83e-412ca47fd3c3",
+                    "label": "Okapa HC"
+                  },
+                  {
+                    "concept": "d3a10ced-161f-4bb8-8e4d-b5b2d0cdeb5b",
+                    "label": "Omaura SC"
+                  },
+                  {
+                    "concept": "2eaf0307-3004-45b6-b2be-d9fef1dfdca8",
+                    "label": "Onamunga SC"
+                  },
+                  {
+                    "concept": "b0a8070c-2a50-4b5a-b25d-53e851103bf6",
+                    "label": "S.I.L. UC"
+                  },
+                  {
+                    "concept": "baac8f86-d875-49e4-a9d9-d67de0390651",
+                    "label": "Sigerehe SC"
+                  },
+                  {
+                    "concept": "feeda08d-0e3b-485d-af16-0f88c0b226dc",
+                    "label": "Simbari SC"
+                  },
+                  {
+                    "concept": "fa94bf3e-24df-4ccd-8a1b-959adea525da",
+                    "label": "Owena SC"
+                  },
+                  {
+                    "concept": "707f29b0-37d2-4393-ab39-ff86a1d87a0a",
+                    "label": "Tafeto SC"
+                  },
+                  {
+                    "concept": "8d2823dc-db00-485c-aadd-753e02cfcc22",
+                    "label": "To'okena SC"
+                  },
+                  {
+                    "concept": "a6116d31-a1d6-4158-9fd7-b7731a60e5f7",
+                    "label": "Ubaigubi SC"
+                  },
+                  {
+                    "concept": "932247a3-5bd9-4556-a4b4-bc41336ec6db",
+                    "label": "Unggai SC"
+                  },
+                  {
+                    "concept": "d8aaad03-6cc0-488d-af24-689e70ab5bab",
+                    "label": "Watabung SC"
+                  },
+                  {
+                    "concept": "2f6a1d1d-1915-48e9-b9bf-11121e3b77d7",
+                    "label": "West Goroka UC"
+                  },
+                  {
+                    "concept": "92a2b6cc-ff3b-4b7d-8e74-da85739d1473",
+                    "label": "Wonenara SC"
+                  },
+                  {
+                    "concept": "311ffc55-5e4e-453a-b448-018acc349f3a",
+                    "label": "Yafa CHP"
+                  },
+                  {
+                    "concept": "c6125e22-010d-4a20-8f72-b95e6d01aad1",
+                    "label": "Yasubi CHP"
+                  },
+                  {
+                    "concept": "4865e5a8-3ee9-4c21-8f42-86bb591ea3fb",
+                    "label": "Yauna SC"
+                  }
+                ]
+              },
+              "id": "healthFacility(IfHomeBorn,ThenNearestHf)",
+              "label": "Health Facility (If home born, then nearest HF)"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "number",
+                "concept": "5089AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+              },
+              "id": "birthWeight(Kg)",
+              "label": "Birth Weight (Kg)"
+            }
+          ]
+        },
+        {
+          "label": "Vaccination at Birth Time",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "886AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  },
+                  {
+                    "concept": "1067AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Unknown"
+                  }
+                ]
+              },
+              "id": "bacillusCalmette",
+              "label": "Bacillus Calmette–Guérin vaccine"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "date",
+                "concept": "1410AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+              },
+              "id": "vaccinationDate",
+              "label": "Vaccination Date",
+              "datePickerFormat": "calendar"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "52176f1f-1080-49a7-8d80-5a99764a8f1e",
+                "answers": [
+                  {
+                    "concept": "164adc96-6231-4e83-b6e8-6f593e5fcee4",
+                    "label": "1"
+                  },
+                  {
+                    "concept": "24672ed9-2ad9-4188-a1bb-bf0085bc52b0",
+                    "label": "2"
+                  },
+                  {
+                    "concept": "3f77ac24-7dd8-42bc-8d6b-f21518292f12",
+                    "label": "3"
+                  }
+                ]
+              },
+              "id": "hepB",
+              "label": "Hep B"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "date",
+                "concept": "1410AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+              },
+              "id": "vaccinationDate1",
+              "label": "Vaccination Date",
+              "datePickerFormat": "calendar"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "7141b0d9-f757-4a1e-a949-595b631cc6b9",
+                "answers": [
+                  {
+                    "concept": "bddc0b51-47e2-422f-a4e6-1ca5a45f61a3",
+                    "label": "IPV1"
+                  },
+                  {
+                    "concept": "18b7dfda-070e-4648-854e-6d3018863b36",
+                    "label": "IPV2"
+                  }
+                ]
+              },
+              "id": "fipvVaccine(FractionalInjectablePolio)",
+              "label": "FIPV Vaccine (Fractional Injectable Polio)"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "date",
+                "concept": "1410AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+              },
+              "id": "vaccinationDate4",
+              "label": "Vaccination Date",
+              "datePickerFormat": "calendar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Vaccination Details",
+      "sections": [
+        {
+          "label": "Vaccination",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "782dd163-eff2-46a4-84df-117c01cef4e0",
+                "answers": [
+                  {
+                    "concept": "481b5b91-b753-42da-97bd-295ae90784ae",
+                    "label": "Penta-1"
+                  },
+                  {
+                    "concept": "e4f321a8-2e80-4de0-8526-a399f98622d5",
+                    "label": "Penta-2"
+                  },
+                  {
+                    "concept": "05712cf3-9fd4-4f7b-b0da-1fd469c40bd9",
+                    "label": "Penta-3"
+                  }
+                ]
+              },
+              "id": "dtp-Hepb-HibVaccine",
+              "label": "DTP-HepB-hib Vaccine"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "05305ff0-28ac-4f73-8927-a0e418bae893",
+                "answers": [
+                  {
+                    "concept": "14b8531a-c801-464c-a55c-b516410cec70",
+                    "label": "Sabin-1"
+                  },
+                  {
+                    "concept": "002f9bf4-030b-440a-8aab-633c1677d186",
+                    "label": "Sabin-2"
+                  },
+                  {
+                    "concept": "8601505c-d460-4af4-b95e-182bd08b8671",
+                    "label": "Sabin-3"
+                  }
+                ]
+              },
+              "id": "oralPolioVaccine",
+              "label": "Oral Polio Vaccine"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "1f50f668-26ed-4090-b22d-ff817c4416f8",
+                "answers": [
+                  {
+                    "concept": "241bbb33-698e-414d-896b-30167c48b05c",
+                    "label": "PVC-1"
+                  },
+                  {
+                    "concept": "d3719d70-254d-4538-a1bf-3d3b41a2606b",
+                    "label": "PVC-2"
+                  },
+                  {
+                    "concept": "6434230d-1534-40d5-a48a-46dafc3b025a",
+                    "label": "PVC-3"
+                  }
+                ]
+              },
+              "id": "pcvVaccine(PneumococcalConjugate)",
+              "label": "PCV Vaccine (Pneumococcal Conjugate)"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "af2e0460-b223-4ecb-a817-7c6ea901eb5a",
+                "answers": [
+                  {
+                    "concept": "6d07f484-ea50-4afa-90e2-08d57fb50d23",
+                    "label": "MR-0"
+                  },
+                  {
+                    "concept": "b73b6d7b-6e8a-443a-a209-cf2dac9c3050",
+                    "label": "MR-1"
+                  },
+                  {
+                    "concept": "a0be4b51-8593-4c89-a485-fad9c38546c0",
+                    "label": "MR-2"
+                  }
+                ]
+              },
+              "id": "measles/RubellaVaccine",
+              "label": "Measles/rubella Vaccine"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "b652bddb-3212-4ae6-a443-63036ce01500",
+                "answers": [
+                  {
+                    "concept": "94f54b39-a467-4637-a8df-7b7e372d0ed6",
+                    "label": "Vit A-1"
+                  },
+                  {
+                    "concept": "44b71a0b-2804-418b-9d28-ad3bf53e1228",
+                    "label": "Vit A-2"
+                  },
+                  {
+                    "concept": "a53af577-f205-4a2b-957e-eefd1a024885",
+                    "label": "Vit A-3"
+                  }
+                ]
+              },
+              "id": "vitaminA",
+              "label": "Vitamin A"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "select",
+                "concept": "a1807218-5265-4100-bc17-82e151c77a7c",
+                "answers": [
+                  {
+                    "concept": "0f87613d-fc1e-4be3-9b1d-4d11509d2c95",
+                    "label": "TT-1"
+                  },
+                  {
+                    "concept": "affc1301-e683-4007-b412-b0f548b6c673",
+                    "label": "TT-2"
+                  },
+                  {
+                    "concept": "b95d49c0-e8b3-4cf9-9405-f58557c6a51f",
+                    "label": "TT-3"
+                  },
+                  {
+                    "concept": "b70ff595-9a1e-4b5f-b0e1-90a4a27345b0",
+                    "label": "TT-booster"
+                  }
+                ]
+              },
+              "id": "tetanusToxoidVaccine",
+              "label": "Tetanus Toxoid Vaccine"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "date",
+                "concept": "1410AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+              },
+              "id": "vaccinationDate2",
+              "label": "Vaccination Date",
+              "datePickerFormat": "calendar"
+            }
+          ]
+        },
+        {
+          "label": "Medication",
+          "isExpanded": "true",
+          "questions": [
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "radio",
+                "concept": "066ec5d8-50f1-43ad-a065-30b4ccea9552",
+                "answers": [
+                  {
+                    "concept": "1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "Yes"
+                  },
+                  {
+                    "concept": "1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "label": "No"
+                  }
+                ]
+              },
+              "id": "albendazoleProvided",
+              "label": "Albendazole Provided"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "date",
+                "concept": "555e5e20-cd08-43cf-9092-f42b6a5fd054"
+              },
+              "id": "givenDate",
+              "label": "Given Date",
+              "datePickerFormat": "calendar"
+            },
+            {
+              "type": "obs",
+              "questionOptions": {
+                "rendering": "textarea",
+                "concept": "bc44de6f-db98-42c7-98b5-5fd059f50d3a"
+              },
+              "id": "comments",
+              "label": "Comments"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processor": "EncounterFormProcessor",
+  "encounterType": "dd528487-82a5-4082-9c72-ed246bd49591",
+  "referencedForms": [],
+  "uuid": "d4fee734-c287-4ce1-a620-853f362061aa",
+  "description": "Immunization",
+  "version": "1",
+  "encounter": "Consultation",
+  "published": true,
+  "retired": false
+}
